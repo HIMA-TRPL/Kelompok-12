@@ -80,13 +80,13 @@
 
 ### [07] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
+* **Nama Lengkap:** [adam_cesta_]
+* **NIM:** [264311060]
 * **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
+* **Nomer Handphone:** [085735111007]
 * **Nama Kelompok:** [NAMA_KELOMPOK]
 * **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
+* **Asal Sekolah:** [smkn_1_blitar]
 * **Fun Fact:** [FUN_FACT]
 
 ### [08] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
