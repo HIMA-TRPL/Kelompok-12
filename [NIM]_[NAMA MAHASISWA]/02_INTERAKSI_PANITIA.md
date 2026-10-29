@@ -15,7 +15,7 @@
 <!-- Line Comment TTD Panitia 01 wajib ditargetkan pada baris komentar ini -->
 
 ### [02] BPH - Muhammad Adam Al-Kidri
-* <img src="assets/PANITIA/BPH/WAKIL KETUA HIMA - MUHAMMAD ADAM Al KIDRI" alt="Muhammad Adam Al-Kidri" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/WAKIL KETUA HIMA - MUHAMMAD ADAM Al KIDRI.jpg" alt="Muhammad Adam Al-Kidri" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhammad Adam Al-Kidri
 * **Jabatan:** Wakil Ketua Umum HIMA TRPL 2026
 * **TTL:** Magetan, 08 September 2005
@@ -25,7 +25,7 @@
 <!-- Line Comment TTD Panitia 02 wajib ditargetkan pada baris komentar ini -->
 
 ### [03] BPH - Fathur Roshin Haddinanta
-* <img src="assets/PANITIA/BPH/SEKRETARIS 1 - FATHUR ROSHIN HADDINANTA" alt="Fathur Roshin Haddinanta" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/SEKRETARIS 1 - FATHUR ROSHIN HADDINANTA.jpg" alt="Fathur Roshin Haddinanta" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Fathur Roshin Haddinanta
 * **Jabatan:** Sekretaris 1
 * **TTL:** Tulungagung, 21 September 2005
