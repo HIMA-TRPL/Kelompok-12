@@ -25,7 +25,7 @@
 <!-- Line Comment TTD Panitia 02 wajib ditargetkan pada baris komentar ini -->
 
 ### [03] BPH - Fathur Roshin Haddinanta
-* <img src="assets/PANITIA/BPH/SEKRETARIS 1 - FATHUR ROSHIN HADDINANTA " alt="Fathur Roshin Haddinanta" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/SEKRETARIS 1 - FATHUR ROSHIN HADDINANTA" alt="Fathur Roshin Haddinanta" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Fathur Roshin Haddinanta
 * **Jabatan:** Sekretaris 1
 * **TTL:** Tulungagung, 21 September 2005
@@ -55,7 +55,7 @@
 <!-- Line Comment TTD Panitia 05 wajib ditargetkan pada baris komentar ini -->
 
 ### [06] BPH - Dhea Novika
-* <img src="assets/PANITIA/BPH/BPH - DHEA NOVIKA_BENDAHARA" alt="Dhea Novika" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/DHEA NOVIKA_BENDAHARA" alt="Dhea Novika" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Dhea Novika
 * **Jabatan:** Bendahara 2
 * **TTL:** Madiun, 13 November 2006
@@ -79,7 +79,7 @@
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [08] Dagri - Dzakwan Daris Fakhruddin
-* <img src="assets/PANITIA/Dagri/Dagri - Dzakwan Daris Fakhruddin.png" alt="Dzakwan Daris Fakhruddin" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/STAFF DAGRI - DZAKWAN DARIS FAKHRUDDIN.jpg" alt="Dzakwan Daris Fakhruddin" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Dzakwan Daris Fakhruddin
 * **Jabatan:** Anggota Dagri
 * **TTL:** Madiun, 13 April 2006
