@@ -25,7 +25,7 @@
 <!-- Line Comment TTD Panitia 02 wajib ditargetkan pada baris komentar ini -->
 
 ### [03] BPH - Fathur Roshin Haddinanta
-* <img src="assets/PANITIA/BPH/SEKERTARIS 1 - FATHUR ROSHIN HADDINANTA.jpg" alt="Fathur Roshin Haddinanta" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/SEKRETARIS 1 - FATHUR ROSHIN HADDINANTA " alt="Fathur Roshin Haddinanta" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Fathur Roshin Haddinanta
 * **Jabatan:** Sekretaris 1
 * **TTL:** Tulungagung, 21 September 2005
@@ -35,7 +35,7 @@
 <!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
 
 ### [04] BPH - Naila Zahra Yasmine
-* <img src="assets/PANITIA/BPH/SEKERTARIS 2- NAILA ZAHRA YASMINE.jpg" alt="Naila Zahra Yasmine" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/SEKRETARIS 2- NAILA ZAHRA YASMINE.jpg" alt="Naila Zahra Yasmine" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Naila Zahra Yasmine
 * **Jabatan:** Sekretaris 2
 * **TTL:** Madiun, 09 Oktober 2006
@@ -45,7 +45,7 @@
 <!-- Line Comment TTD Panitia 04 wajib ditargetkan pada baris komentar ini -->
 
 ### [05] BPH - Alivia Rizka Wardani
-* <img src="assets/PANITIA/BPH/BPH - Alivia Rizka Wardani.png" alt="Alivia Rizka Wardani" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/Alivia Rizka Wardani.png" alt="Alivia Rizka Wardani" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Alivia Rizka Wardani
 * **Jabatan:** Bendahara 1
 * **TTL:** Ngawi, 12 September 2007
@@ -55,7 +55,7 @@
 <!-- Line Comment TTD Panitia 05 wajib ditargetkan pada baris komentar ini -->
 
 ### [06] BPH - Dhea Novika
-* <img src="assets/PANITIA/BPH/BPH - DHEA NOVIKA_BENDAHARA.jpg" alt="Dhea Novika" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/BPH - DHEA NOVIKA_BENDAHARA" alt="Dhea Novika" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Dhea Novika
 * **Jabatan:** Bendahara 2
 * **TTL:** Madiun, 13 November 2006
