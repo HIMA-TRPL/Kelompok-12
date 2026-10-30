@@ -369,7 +369,7 @@
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] HUMAS - [ALVINA_NUR_LAILA_ANGGRAINI]
-* <img src="assets/PANITIA/HUMAS/HUMAS - ALVINA_NUR_LAILA_ANGGRAINI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/HUMAS - ALVINA_NUR_LAILA_ANGGRAINI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ALVINA_NUR_LAILA_ANGGRAINI]
 * **Jabatan:** [STAFF_DIVISI]
 * **TTL:** [SURABAYA_31_MARET_2005]
