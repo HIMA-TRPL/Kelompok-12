@@ -383,7 +383,7 @@
 * **Fun Fact:** wi wok de tok
 
 ### 35 264311035 - Anisa Latifatul Rohma
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/035.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Anisa Latifatul Rohma
 * **NIM:** 264311035
 * **TTL:** Kota Madiun, 20 Maret 2007
