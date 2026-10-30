@@ -379,7 +379,7 @@
 <!-- Line Comment TTD Panitia 35 wajib ditargetkan pada baris komentar ini -->
 
 ### [36] HUMAS - [MUHAMMAD_RAUFA_HAFID_WIDODO]
-* <img src="assets/PANITIA/HUMAS/HUMAS - MUHAMMAD_RAUFA_HAFID_WIDODO.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/HUMAS - MUHAMMAD_RAUFA_HAFID_WIDODO.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [MUHAMMAD_RAUFA_HAFID_WIDODO]
 * **Jabatan:** [STAFF_DIVISI]
 * **TTL:** [MADIUN_26_SEPTEMBER_2005]
