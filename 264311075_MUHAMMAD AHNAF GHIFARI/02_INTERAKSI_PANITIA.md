@@ -399,7 +399,7 @@
 <!-- Line Comment TTD Panitia 37 wajib ditargetkan pada baris komentar ini -->
 
 ### [38] HUMAS - [ATHA_ARYASATYA]
-* <img src="assets/PANITIA/HUMAS/HUMAS - ATHA_ARYASATYA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/HUMAS - ATHA_ARYASATYA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ATHA_ARYASATYA]
 * **Jabatan:** [STAFF_DIVISI]
 * **TTL:** [MADIUN_22_FEBRUARI_2005]
