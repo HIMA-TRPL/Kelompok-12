@@ -147,7 +147,7 @@
 * **Nama Panitia:** [AZZA_AULIAYAUL_FITRI]
 * **Jabatan:** [STAFF_DIVISI]
 * **TTL:** [MADIUN_19_NOVEMBER_2005]
-* **Nomer Handphone:** [89523358721]
+* **Nomer Handphone:** [089523358721]
 * **Username GitHub:** @[azzaauliyaul]
 * **Asal Daerah:** [MADIUN]
 <!-- Line Comment TTD Panitia 14 wajib ditargetkan pada baris komentar ini -->
