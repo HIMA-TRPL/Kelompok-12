@@ -413,7 +413,7 @@
 ## 🏛️ Volunteer
 
 ### [39] Volunteer - Septian Angga Saputra
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - SEPTIAN ANGGA SAPUTRA.jpg" alt="Septian Angga Saputra" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/volunter/VOLUNTEER - SEPTIAN ANGGA SAPUTRA.jpg" alt="Septian Angga Saputra" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Septian Angga Saputra
 * **Jabatan:** Volunteer
 * **TTL:** Ponorogo, 12 September 2006
@@ -423,7 +423,7 @@
 <!-- Line Comment TTD Panitia 39 wajib ditargetkan pada baris komentar ini -->
 
 ### [40] Volunteer - Indah Ayu Astuti
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - INDAH AYU ASTUTI (1).jpg" alt="Indah Ayu Astuti" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/volunter/VOLUNTEER - INDAH AYU ASTUTI (1).jpg" alt="Indah Ayu Astuti" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Indah Ayu Astuti
 * **Jabatan:** Volunteer
 * **TTL:** Ponorogo, 27 Desember 2006
@@ -433,7 +433,7 @@
 <!-- Line Comment TTD Panitia 40 wajib ditargetkan pada baris komentar ini -->
 
 ### [41] Volunteer - Kunni Sofa Rahmayani
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - KUNNI SOFA RAHMAYANI.jpg" alt="Kunni Sofa Rahmayani" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/volunter/VOLUNTEER - KUNNI SOFA RAHMAYANI.jpg" alt="Kunni Sofa Rahmayani" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Kunni Sofa Rahmayani
 * **Jabatan:** Volunteer
 * **TTL:** Madiun, 04 Juli 2006
@@ -443,7 +443,7 @@
 <!-- Line Comment TTD Panitia 41 wajib ditargetkan pada baris komentar ini -->
 
 ### [42] Volunteer - Aisyah Nur Fadillah
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - AISYAH NUR FADILLAH.jpg" alt="Aisyah Nur Fadillah" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/volunter/VOLUNTEER - AISYAH NUR FADILLAH.jpg" alt="Aisyah Nur Fadillah" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Aisyah Nur Fadillah
 * **Jabatan:** Volunteer (Komdis)
 * **TTL:** Magetan, 21 September 2006
@@ -453,7 +453,7 @@
 <!-- Line Comment TTD Panitia 42 wajib ditargetkan pada baris komentar ini -->
 
 ### [43] Volunteer - Nabil Sunu Widya Dhana
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - NABIL SUNU WIDYA DHANA.jpg" alt="Nabil Sunu Widya Dhana" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/volunter/VOLUNTEER - NABIL SUNU WIDYA DHANA.jpg" alt="Nabil Sunu Widya Dhana" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nabil Sunu Widya Dhana
 * **Jabatan:** Volunteer
 * **TTL:** Bekasi, 15 Maret 2006
@@ -463,7 +463,7 @@
 <!-- Line Comment TTD Panitia 43 wajib ditargetkan pada baris komentar ini -->
 
 ### [44] Volunteer - Ervindy Anjuni Nurmasari
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - ERVINDY ANJUNI NURMASARI.jpg" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/volunter/VOLUNTEER - ERVINDY ANJUNI NURMASARI.jpg" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Ervindy Anjuni Nurmasari
 * **Jabatan:** Volunteer (Konsumsi)
 * **TTL:** Madiun, 21 Juni 2006
@@ -473,7 +473,7 @@
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
 ### [45] Volunteer - Nadya Nur Kamila
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - NADYA NUR KAMILA.jpg" alt="Nadya Nur Kamila" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/volunter/VOLUNTEER - NADYA NUR KAMILA.jpg" alt="Nadya Nur Kamila" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nadya Nur Kamila
 * **Jabatan:** Volunteer
 * **TTL:** Madiun, 1 September 2006
@@ -483,7 +483,7 @@
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
 
 ### [46] Volunteer - Galang Surya Prasetyo
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - SURYA PRASETYO.jpg" alt="Galang" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/volunter/VOLUNTEER - SURYA PRASETYO.jpg" alt="Galang" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Galang Surya Prasetyo
 * **Jabatan:** Volunteer Komdis
 * **TTL:** Tenggarong, 19 Februari 2007
