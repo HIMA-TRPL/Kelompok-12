@@ -359,7 +359,7 @@
 ## 🏛️ Divisi HUMAS (Hubungan Masyarakat)
 
 ### [34] HUMAS - [ADAM_NOVERIAN]
-* <img src="assets/PANITIA/HUMAS/HUMAS - ADAM_NOVERIAN.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/HUMAS - ADAM_NOVERIAN.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ADAM_NOVERIAN]
 * **Jabatan:** [KOORDINATOR_DIVISI]
 * **TTL:** [SURABAYA_8_NOVEMBER_2005]
