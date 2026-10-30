@@ -15,7 +15,7 @@
 <!-- Line Comment TTD Panitia 01 wajib ditargetkan pada baris komentar ini -->
 
 ### [02] BPH - [MUHAMMAD_ADAM_AL_KIDRI]
-* <img src="assets/PANITIA/BPH/BPH - MUHAMMAD_ADAM_AL_KIDRI.JPG" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/BPH - MUHAMMAD_ADAM_AL_KIDRI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [MUHAMMAD_ADAM_AL_KIDRI]
 * **Jabatan:** [WAKIL_KETUA]
 * **TTL:** [MAGETAN_08_SEPTEMBER_2005]
