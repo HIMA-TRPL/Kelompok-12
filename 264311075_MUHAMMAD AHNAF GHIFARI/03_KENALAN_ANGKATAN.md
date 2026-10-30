@@ -16,7 +16,7 @@
 * **Fun Fact:** [BAIK]
 
 ### [02] [264311002] - [ADLY_NOURUS_ZAMAN_ASSIDIQ]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311002 - ADLY_NOURUS_ZAMAN_ASSIDIQ.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311002 - ADLY_NOURUS_ZAMAN_ASSIDIQ.JPG" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [ADLY_NOURUS_ZAMAN_ASSIDIQ]
 * **NIM:** [264311002]
 * **TTL:** [MALAYSiA_8_JANUARI_2008]
