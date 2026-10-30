@@ -70,12 +70,12 @@
 
 ## 🏛️ Divisi Dagri (Dalam Negeri)
 
-### [04] Dagri - [NAMA_PANITIA_04]
-* <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [NAMA_PANITIA_04]
-* **Jabatan:** [JABATAN]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
+### [07] Dagri - [Alvian_Dwiky_Putra_Santoso]
+* <img src="assets/PANITIA/Dagri/DAGRI - ALVIAN DWIKI PUTRA SANTOSO.jpg" alt="Alvian Dwiky Putra Santoso" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [Alvian_Dwiky_Putra_Santoso]
+* **Jabatan:** [Koordinator_Dagri]
+* **TTL:** [Ponorogo,02_Desember_2005]
+* **Nomer Handphone:** [082292537622]
 * **Username GitHub:** @[USERNAME_GITHUB_04]
 * **Asal Daerah:** [KOTA/KABUPATEN]
 <!-- Line Comment TTD Panitia 04 wajib ditargetkan pada baris komentar ini -->
