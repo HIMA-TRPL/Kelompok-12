@@ -269,7 +269,7 @@
 * **Fun Fact:** bisa tidur berdiri
 
 ### 25 264311025 - Rafiq Imam Zaini
-* <img src="assets/MAHASISWA_BARU/025.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/025.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Rafiq Imam Zaini
 * **NIM:** 264311025
 * **TTL:** Balikpapan, 21 Desember 2005
