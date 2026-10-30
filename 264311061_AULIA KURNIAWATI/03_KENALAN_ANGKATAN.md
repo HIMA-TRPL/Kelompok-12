@@ -605,7 +605,7 @@
 
 ### [55] [264311056] - [RESTU_PRAYOGA]
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311056-RESTU_PRAYUGA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [RESTU_PRAYUGA]
+* **Nama Lengkap:** [RESTU_PRAYUOGA]
 * **NIM:** [264311056]
 * **TTL:** [PONOROGO_19_JANUARI_2008]
 * **Nomer Handphone:** [083134846000]
