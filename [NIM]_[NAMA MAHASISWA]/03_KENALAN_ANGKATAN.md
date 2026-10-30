@@ -717,7 +717,7 @@
 * **Fun Fact:** Suka wanginya stela jeruk
 
 ### 65 264311065 - Cornelia Nasywa Puji Agustin
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/065.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Cornelia Nasywa Puji Agustin
 * **NIM:** 264311065
 * **TTL:** Magetan, 28 April 2007
