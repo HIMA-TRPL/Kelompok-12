@@ -482,8 +482,6 @@
 * **Asal Daerah:** [MADIUN]
 <!-- Line Comment TTD Panitia 32 wajib ditargetkan pada baris komentar ini -->
 
-
-
 ---
 
 ---
