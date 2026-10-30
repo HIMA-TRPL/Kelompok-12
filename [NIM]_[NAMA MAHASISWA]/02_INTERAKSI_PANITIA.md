@@ -369,7 +369,7 @@
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] DKM - Jimli Dwi Assiddiqi
-* <img src="assets/PANITIA/DKM/DKM - Jimli Dwi Assiddiqi.png" alt="Jimli Dwi Assiddiqi" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM - JIMLI DWI ASSIDDIQI.jpg" alt="Jimli Dwi Assiddiqi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Jimli Dwi Assiddiqi
 * **Jabatan:** Perkap
 * **TTL:** Mojokerto, 29 Juli 2006
@@ -472,13 +472,13 @@
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
-### [45] Volunteer - 
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - ERVINDY ANJUNI NURMASARI.jpg" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Ervindy Anjuni Nurmasari
-* **Jabatan:** Volunteer (Konsumsi)
-* **TTL:** Madiun, 21 Juni 2006
-* **Nomer Handphone:** -
-* **Username GitHub:** @erov1n
+### [45] Volunteer - Nadya Nur Kamila 
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER - NADYA NUR KAMILA.jpg" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Nadya Nur Kamila
+* **Jabatan:** Volunteer
+* **TTL:** Madiun, 1 September 2006
+* **Nomer Handphone:** 085731873063
+* **Username GitHub:** @nanayaaa
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
