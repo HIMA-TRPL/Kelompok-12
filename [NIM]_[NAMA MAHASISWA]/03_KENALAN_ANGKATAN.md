@@ -614,7 +614,7 @@
 * **Fun Fact:** gk suka makan pedes
 
 ### 56 264311056 - Restu Prayoga
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/056.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Restu Prayoga
 * **NIM:** 264311056
 * **TTL:** Ponorogo, 19 Januari 2008
