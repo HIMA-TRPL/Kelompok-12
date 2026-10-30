@@ -389,7 +389,7 @@
 <!-- Line Comment TTD Panitia 36 wajib ditargetkan pada baris komentar ini -->
 
 ### [37] HUMAS - [CRISTIAN_REYNALDI]
-* <img src="assets/PANITIA/HUMAS/HUMAS - CRISTIAN_REYNALDI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/HUMAS - CRISTIAN_REYNALDI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [CRISTIAN_REYNALDI]
 * **Jabatan:** [STAFF_DIVISI]
 * **TTL:** [JAKARTA_18_JANUARI_2007]
