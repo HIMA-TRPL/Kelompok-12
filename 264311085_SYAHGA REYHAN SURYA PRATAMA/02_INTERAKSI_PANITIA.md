@@ -4,35 +4,67 @@
 
 ## 🏛️ Divisi BPH (Badan Pengurus Harian)
 
-### [01] BPH - [NAMA_PANITIA_01]
-* <img src="assets/PANITIA/BPH/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [NAMA_PANITIA_01]
-* **Jabatan:** [JABATAN]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_01]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+### [01] BPH - [MUHAMMAD_AKBAR_FADILAH]
+* <img src="assets/PANITIA/BPH/BPH - Muhammad Akbar Fadilah.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [MUHAMMAD_AKBAR_FADILAH]
+* **Jabatan:** [Ketua_Umum]
+* **TTL:** [Banjarmasin,17_Juli_2006]
+* **Nomer Handphone:** [082336825955]
+* **Username GitHub:** [@akbrvdv]
+* **Asal Daerah:** [Ngawi]
 <!-- Line Comment TTD Panitia 01 wajib ditargetkan pada baris komentar ini -->
 
-### [02] BPH - [NAMA_PANITIA_02]
-* ikuti langkah nomer 1 untuk menampilkan gambar [GANTI INI]
-* **Nama Panitia:** [NAMA_PANITIA_02]
-* **Jabatan:** [JABATAN]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_02]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+### [02] BPH - [NAILA_ZAHRA_YASMINE]
+* <img src="assets/PANITIA/BPH/BPH- NAILA ZAHRA YASMINE.jpg" alt="Naila Zahra Yasmine" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [NAILA_ZAHRA_YASMINE]
+* **Jabatan:** [Sekretaris_2]
+* **TTL:** [Madiun,09_Oktober_2006]
+* **Nomer Handphone:** [082143238277]
+* **Username GitHub:** @[@nailazahraysmn]
+* **Asal Daerah:** [Dagangan,Kab.Madiun]
 <!-- Line Comment TTD Panitia 02 wajib ditargetkan pada baris komentar ini -->
 
-### [03] BPH - [NAMA_PANITIA_03]
-* ikuti langkah nomer 1 untuk menampilkan gambar [GANTI INI]
-* **Nama Panitia:** [NAMA_PANITIA_03]
-* **Jabatan:** [JABATAN]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_03]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+### [03] BPH - [MUHAMMAD_ADAM_AL_KIDRI]
+* <img src="assets/PANITIA/BPH/BPH - MUHAMMAD ADAM Al KIDRI.jpg" alt="Muhammad Adam Al-Kidri" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [MUHAMMAD_ADAM_AL_KIDRI]
+* **Jabatan:** [Wakil_Ketua_Umum_HIMA_TRPL_2026]
+* **TTL:** [Magetan,08_September_2005]
+* **Nomer Handphone:** [087756523263]
+* **Username GitHub:** @[@Adamlki]
+* **Asal Daerah:** [Magetan]
 <!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
+
+### [04] BPH - [FATHUR_ROSHIN_HADDINANTA]
+* <img src="assets\PANITIA\BPH\BPH - FATHUR ROSHIN HADDINANTA .jpg" alt="Fathur Roshin Haddinanta" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [FATHUR_ROSHIN_HADDINANTA]
+* **Jabatan:** [SEKRETARIS_1]
+* **TTL:** [Tulungagung,21_September_2005]
+* **Nomer Handphone:** [085732860583]
+* **Username GitHub:** @[@fathursn21]
+* **Asal Daerah:** [Magetan]
+<!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
+
+### [05] BPH - [DHEA_NOVIKA]
+* <img src="assets\PANITIA\BPH\BPH - DHEA NOVIKA.jpg" alt="Dhea Novika" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [FATHUR_ROSHIN_HADDINANTA]
+* **Jabatan:** [SEKRETARIS_1]
+* **TTL:** [Tulungagung,21_September_2005]
+* **Nomer Handphone:** [085732860583]
+* **Username GitHub:** @[@fathursn21]
+* **Asal Daerah:** [Magetan]
+<!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
+
+### [06] BPH - [ALIVIA_RIZKA_WARDANI]
+* <img src="  assets\PANITIA\BPH\BPH - ALIVIA RIZKA WARDANI .jpg" alt="Dhea Novika" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [FATHUR_ROSHIN_HADDINANTA]
+* **Jabatan:** [SEKRETARIS_1]
+* **TTL:** [Tulungagung,21_September_2005]
+* **Nomer Handphone:** [085732860583]
+* **Username GitHub:** @[@fathursn21]
+* **Asal Daerah:** [Magetan]
+<!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
+
+
 
 ---
 
