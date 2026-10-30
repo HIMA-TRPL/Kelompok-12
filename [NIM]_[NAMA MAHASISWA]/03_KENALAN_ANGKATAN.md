@@ -915,7 +915,7 @@
 * **Fun Fact:** SUKA WHEN YAH
 
 ### 83 264311083 - Satria Pandu Admaja
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/083.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Satria Pandu Admaja
 * **NIM:** 264311083
 * **TTL:** Ponorogo, 20 April 2008
