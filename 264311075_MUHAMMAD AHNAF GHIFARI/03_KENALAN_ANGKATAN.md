@@ -38,7 +38,7 @@
 * **Fun Fact:** [KARINA_AESPA_MBG_(MY_BINI_GW)]
 
 ### [04] [264311004] - [AFRIN_RACHMAD_SETIO]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311004 - AFRIN_RACHMAD_SETIO.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311004 - AFRIN_RACHMAD_SETIO.JPG" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [AFRIN_RACHMAD_SETIO]
 * **NIM:** [264311004]
 * **TTL:** [MAGETAN_30_AGUSTUS_2008]
@@ -49,7 +49,7 @@
 * **Fun Fact:** [MASA_MUDA_WAJIB_HEALING]
 
 ### [05] [264311005] - [ANIS_ALI_SOHIB]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311005 - ANIS_ALI_SOHIB.JPG" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311005 - ANIS_ALI_SOHIB.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [ANIS_ALI_SOHIB]
 * **NIM:** [264311005]
 * **TTL:** [MAGETAN_26_MARET_2008]
