@@ -407,7 +407,7 @@
 
 ### [37] [264311037] - [ANTASYA_SILVIA_MONICA]
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [ANTASYA_SILVIA_MONICA]
+* **Nama Lengkap:** [ANATASYA_SILVIA_MONICA]
 * **NIM:** [264311037]
 * **TTL:** [KOTA_MAGETAN_5_JUNI_2008]
 * **Nomer Handphone:** [085129127452]
