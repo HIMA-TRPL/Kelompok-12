@@ -211,7 +211,7 @@
 * **Nama Kelompok:** [SPRING]
 * **Asal Daerah:** [KAB_MADIUN]
 * **Asal Sekolah:** [SMKN_1_WONOASRI]
-* **Fun Fact:** [SUKA_MAIN_GITAR]
+* **Fun Fact:** [JAGO_GITAR]
 
 ### [20] [264311020] - [MAHIJA_PARAMA_URDHA]
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311020-MAHIJA_PARAMA_URDHA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
