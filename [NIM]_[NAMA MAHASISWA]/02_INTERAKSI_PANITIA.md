@@ -69,27 +69,27 @@
 ## 🏛️ Divisi Dagri (Dalam Negeri)
 
 ### [07] Dagri - Alvian Dwiky Putra Santoso
-* <img src="assets/PANITIA/Dagri/DAGRI - ALVIAN DWIKI PUTRA SANTOSO.jpg" alt="Alvian Dwiky Putra Santoso" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DAGRI/DAGRI - ALVIAN DWIKI PUTRA SANTOSO.jpg" alt="Alvian Dwiky Putra Santoso" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Alvian Dwiky Putra Santoso
-* **Jabatan:** Koordinator Dagri
+* **Jabatan:** Koordinator DAGRI
 * **TTL:** Ponorogo, 02 Desember 2005
 * **Nomer Handphone:** 082292537622
 * **Username GitHub:** @alvn22
 * **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
-### [08] Dagri - Dzakwan Daris Fakhruddin
-* <img src="assets/PANITIA/Dagri/Dagri - Dzakwan Daris Fakhruddin.jpg" alt="Dzakwan Daris Fakhruddin" style="object-fit:cover" width="300px" height="300px">
+### [08] DAGRI - Dzakwan Daris Fakhruddin
+* <img src="assets/PANITIA/DAGRI/DAGRI - DZAKWAN DARIS FAKHRUDDIN.jpg" alt="Dzakwan Daris Fakhruddin" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Dzakwan Daris Fakhruddin
-* **Jabatan:** Anggota Dagri
+* **Jabatan:** Anggota DAGRI
 * **TTL:** Madiun, 13 April 2006
 * **Nomer Handphone:** 085163200636
 * **Username GitHub:** @dzadafa
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 08 wajib ditargetkan pada baris komentar ini -->
 
-### [09] Dagri - Firdaus Ilham F.
-* <img src="assets/PANITIA/Dagri/DAGRI - FIRDAUS ILHAM FADHLURRAHMAN.jpg" alt="Firdaus Ilham F." style="object-fit:cover" width="300px" height="300px">
+### [09] DAGRI - Firdaus Ilham F.
+* <img src="assets/PANITIA/DAGRI/DAGRI - FIRDAUS ILHAM FADHLURRAHMAN.jpg" alt="Firdaus Ilham F." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Firdaus Ilham F.
 * **Jabatan:** Anggota
 * **TTL:** Madiun, 01 Januari 2007
@@ -98,18 +98,18 @@
 * **Asal Daerah:** CarubanZ
 <!-- Line Comment TTD Panitia 09 wajib ditargetkan pada baris komentar ini -->
 
-### [10] Dagri - Bangkit Cahya Linuwih
-* <img src="assets/PANITIA/Dagri/Dagri - Bangkit Cahya Linuwih.jpg" alt="Bangkit Cahya Linuwih" style="object-fit:cover" width="300px" height="300px">
+### [10] DAGRI - Bangkit Cahya Linuwih
+* <img src="assets/PANITIA/DAGRI/DAGRI - BANGKIT CAHYA LINUWIH.jpg" alt="Bangkit Cahya Linuwih" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Bangkit Cahya Linuwih
-* **Jabatan:** Staff Muda Dagri
+* **Jabatan:** Staff Muda DAGRI
 * **TTL:** Pacitan, 02 April 2006
 * **Nomer Handphone:** 081230227986
 * **Username GitHub:** @Bangkitcahyalinuwih
 * **Asal Daerah:** Pacitan
 <!-- Line Comment TTD Panitia 10 wajib ditargetkan pada baris komentar ini -->
 
-### [11] Dagri - Nadia Tifara Sidiq
-* <img src="assets/PANITIA/Dagri/DAGRI - NADIA TIFARA SIDIQ.jpg" alt="Nadia Tifara Sidiq" style="object-fit:cover" width="300px" height="300px">
+### [11] DAGRI - Nadia Tifara Sidiq
+* <img src="assets/PANITIA/DAGRI/DAGRI - NADIA TIFARA SIDIQ.jpg" alt="Nadia Tifara Sidiq" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nadia Tifara Sidiq
 * **Jabatan:** Sie Acara
 * **TTL:** Madiun, 27 Desember 2005
