@@ -5,7 +5,7 @@
 ## 🏛️ Divisi BPH (Badan Pengurus Harian)
 
 ### [01] BPH - Muhammad Akbar Fadilah
-* <img src="assets/PANITIA/BPH/BPH - Muhammad Akbar Fadilah.jpg" alt="Muhammad Akbar Fadilah" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/BPH - MUHAMMAD AKBAR FADILAH.jpg" alt="Muhammad Akbar Fadilah" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhammad Akbar Fadilah
 * **Jabatan:** Ketua Umum
 * **TTL:** Banjarmasin, 17 Juli 2006
@@ -238,50 +238,50 @@
 
 ---
 
-## 🏛️ Divisi Sosma (Sosial Masyarakat)
+## 🏛️ Divisi SOSMA (Sosial Masyarakat)
 
-### [23] Sosma - Anggi Wahyu Saputra
-* <img src="assets/PANITIA/Sosma/Sosma - Anggi Wahyu Saputra.jpg" alt="Anggi Wahyu Saputra" style="object-fit:cover" width="300px" height="300px">
+### [23] SOSMA - Anggi Wahyu Saputra
+* <img src="assets/PANITIA/SOSMA/SOSMA - ANGGI WAHYU SAPUTRA.jpg" alt="Anggi Wahyu Saputra" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Anggi Wahyu Saputra
-* **Jabatan:** Koordinator Sosma
+* **Jabatan:** Koordinator SOSMA
 * **TTL:** Tulungagung, 14 Juni 2005
 * **Nomer Handphone:** 081935495314
 * **Username GitHub:** @anggiwahyu88
 * **Asal Daerah:** Tulungagung
 <!-- Line Comment TTD Panitia 23 wajib ditargetkan pada baris komentar ini -->
 
-### [24] Sosma - Muhammad Rofiqul Anam
-* <img src="assets/PANITIA/Sosma/Sosma - Muhammad Rofiqul Anam.jpg" alt="Muhammad Rofiqul Anam" style="object-fit:cover" width="300px" height="300px">
+### [24] SOSMA - Muhammad Rofiqul Anam
+* <img src="assets/PANITIA/SOSMA/SOSMA - Muhammad Rofiqul Anam.jpg" alt="Muhammad Rofiqul Anam" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhammad Rofiqul Anam
-* **Jabatan:** Anggota Sosma
+* **Jabatan:** Anggota SOSMA
 * **TTL:** Magetan, 05 Maret 2006
 * **Nomer Handphone:** 085850296348
 * **Username GitHub:** @RofiqAnam
 * **Asal Daerah:** Magetan
 <!-- Line Comment TTD Panitia 24 wajib ditargetkan pada baris komentar ini -->
 
-### [25] Sosma - Edwin Nur Cahyo
-* <img src="assets/PANITIA/Sosma/Sosma - Edwin Nur Cahyo.jpg" alt="Edwin Nur Cahyo" style="object-fit:cover" width="300px" height="300px">
+### [25] SOSMA - Edwin Nur Cahyo
+* <img src="assets/PANITIA/SOSMA/SOSMA - EDWIN NUR CAHYO.jpg" alt="Edwin Nur Cahyo" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Edwin Nur Cahyo
-* **Jabatan:** Anggota Sosma
+* **Jabatan:** Anggota SOSMA
 * **TTL:** Dagangan, Madiun, 01 November 2006
 * **Nomer Handphone:** 082334500709
 * **Username GitHub:** @edwinyxxz
 * **Asal Daerah:** Dagangan, Madiun
 <!-- Line Comment TTD Panitia 25 wajib ditargetkan pada baris komentar ini -->
 
-### [26] Sosma - Muhsyam Fahriel S.
-* <img src="assets/PANITIA/Sosma/SOSMA - MUHSYAM FAHRIEL SEPTIANSYAH.jpg" alt="Muhsyam Fahriel S." style="object-fit:cover" width="300px" height="300px">
+### [26] SOSMA - Muhsyam Fahriel S.
+* <img src="assets/PANITIA/SOSMA/SOSMA - MUHSYAM FAHRIEL SEPTIANSYAH.jpg" alt="Muhsyam Fahriel S." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhsyam Fahriel S.
-* **Jabatan:** Anggota Sosma
+* **Jabatan:** Anggota SOSMA
 * **TTL:** Ngawi, 25 September 2005
 * **Nomer Handphone:** 085736564592
 * **Username GitHub:** @FahRiel25
 * **Asal Daerah:** Ngawi
 <!-- Line Comment TTD Panitia 26 wajib ditargetkan pada baris komentar ini -->
 
-### [27] Sosma - Lutfilah Ahmad
-* <img src="assets/PANITIA/Sosma/Sosma - Lutfilah Ahmad.jpg" alt="Lutfilah Ahmad" style="object-fit:cover" width="300px" height="300px">
+### [27] SOSMA - Lutfilah Ahmad
+* <img src="assets/PANITIA/SOSMA/SOSMA - LUTFILAH AHMAD.jpg" alt="Lutfilah Ahmad" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Lutfilah Ahmad
 * **Jabatan:** Staff Muda
 * **TTL:** Magetan, 30 Januari 2007
