@@ -163,7 +163,7 @@
 <!-- Line Comment TTD Panitia 15 wajib ditargetkan pada baris komentar ini -->
 
 ### [16] Humas - Atha Aryasatya
-* <img src="assets/PANITIA/Humas/HUMAS - ARTHA ARYASATYA .jpg" alt="Atha Aryasatya" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/HUMAS - ARTHA ARYASATYA_.jpg" alt="Atha Aryasatya" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Atha Aryasatya
 * **Jabatan:** Staff Humas
 * **TTL:** Madiun, 22 Februari 2005
