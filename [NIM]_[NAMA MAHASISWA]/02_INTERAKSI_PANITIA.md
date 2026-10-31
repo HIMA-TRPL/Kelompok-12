@@ -453,7 +453,7 @@
 <!-- Line Comment TTD Panitia 42 wajib ditargetkan pada baris komentar ini -->
 
 ### [43] Volunteer - Nabil Sunu Widya Dhana
-* <img src="assets/PANITIA/Volunteer/Volunteer - VOLUNTEER - NABIL SUNU WIDYA DHANA.jpg" alt="Nabil Sunu Widya Dhana" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER - NABIL SUNU WIDYA DHANA.jpg" alt="Nabil Sunu Widya Dhana" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nabil Sunu Widya Dhana
 * **Jabatan:** Volunteer
 * **TTL:** Bekasi, 15 Maret 2006
