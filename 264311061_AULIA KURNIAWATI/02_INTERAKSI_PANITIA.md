@@ -89,7 +89,7 @@
 <!-- Line Comment TTD Panitia 08 wajib ditargetkan pada baris komentar ini -->
 
 ### [09] Dagri - Firdaus Ilham F.
-* <img src="assets/PANITIA/DAGRI/DAGRI - FIRDAUS ILHAM FADHLURRAHMAN .jpg" alt="Firdaus Ilham F." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DAGRI/DAGRI - FIRDAUS ILHAM F.jpg" alt="Firdaus Ilham F." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Firdaus Ilham F.
 * **Jabatan:** Anggota
 * **TTL:** Madiun, 01 Januari 2007
@@ -197,7 +197,7 @@
 <!-- Line Comment TTD Panitia 18 wajib ditargetkan pada baris komentar ini -->
 
 ### [19] PSDM - Rindy Cantika Agustina P.
-* <img src="assets/PANITIA/PSDM/PSDM - RINDI CANTIKA AGUSTINA PUTRI.jpg" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - RINDY CANTIKA AGUSTINA P.jpg" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Rindy Cantika Agustina P.
 * **Jabatan:** Anggota PSDM
 * **TTL:** Madiun, 31 Agustus 2006
@@ -227,7 +227,7 @@
 <!-- Line Comment TTD Panitia 21 wajib ditargetkan pada baris komentar ini -->
 
 ### [22] PSDM - Azza Auliyaul F.
-* <img src="assets/PANITIA/PSDM/PSDM - AZZA AULIYAUL F..jpg" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - AZZA AULIYAUL F.jpg" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Azza Auliyaul F.
 * **Jabatan:** Anggota PSDM
 * **TTL:** Madiun, 19 November 2005
@@ -241,7 +241,7 @@
 ## 🏛️ Divisi Sosma (Sosial Masyarakat)
 
 ### [23] Sosma - Anggi Wahyu Saputra
-* <img src="assets/PANITIA/Sosma/SOSMA - ANGGI WAHYU SAPUTRA.jpg" alt="Anggi Wahyu Saputra" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/SOSMA/SOSMA - ANGGI WAHYU SAPUTRA.jpg" alt="Anggi Wahyu Saputra" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Anggi Wahyu Saputra
 * **Jabatan:** Koordinator Sosma
 * **TTL:** Tulungagung, 14 Juni 2005
@@ -251,7 +251,7 @@
 <!-- Line Comment TTD Panitia 23 wajib ditargetkan pada baris komentar ini -->
 
 ### [24] Sosma - Muhammad Rofiqul Anam
-* <img src="assets/PANITIA/Sosma/Sosma - Muhammad Rofiqul Anam.png" alt="Muhammad Rofiqul Anam" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/SOSMA/SOSMA - MUHAMMAD ROFIQUL ANAM.png" alt="Muhammad Rofiqul Anam" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhammad Rofiqul Anam
 * **Jabatan:** Anggota Sosma
 * **TTL:** Magetan, 05 Maret 2006
@@ -261,7 +261,7 @@
 <!-- Line Comment TTD Panitia 24 wajib ditargetkan pada baris komentar ini -->
 
 ### [25] Sosma - Edwin Nur Cahyo
-* <img src="assets/PANITIA/Sosma/SOSMA - EDWIN NUR CAHYO.jpg" alt="Edwin Nur Cahyo" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/SOSMA/SOSMA - EDWIN NUR CAHYO.jpg" alt="Edwin Nur Cahyo" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Edwin Nur Cahyo
 * **Jabatan:** Anggota Sosma
 * **TTL:** Dagangan, Madiun, 01 November 2006
@@ -271,7 +271,7 @@
 <!-- Line Comment TTD Panitia 25 wajib ditargetkan pada baris komentar ini -->
 
 ### [26] Sosma - Muhsyam Fahriel S.
-* <img src="assets/PANITIA/Sosma/SOSMA - MUHSYAM FAHRIEL SEPTIANSYAH.jpg" alt="Muhsyam Fahriel S." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/SOSMA/SOSMA - MUHSYAM FAHRIEL SEPTIANSYAH.jpg" alt="Muhsyam Fahriel S." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhsyam Fahriel S.
 * **Jabatan:** Anggota Sosma
 * **TTL:** Ngawi, 25 September 2005
@@ -281,7 +281,7 @@
 <!-- Line Comment TTD Panitia 26 wajib ditargetkan pada baris komentar ini -->
 
 ### [27] Sosma - Lutfilah Ahmad
-* <img src="assets/PANITIA/Sosma/SOSMA - LUTFILAH AHMAD.jpg" alt="Lutfilah Ahmad" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/SOSMA/SOSMA - LUTFILAH AHMAD.jpg" alt="Lutfilah Ahmad" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Lutfilah Ahmad
 * **Jabatan:** Staff Muda
 * **TTL:** Magetan, 30 Januari 2007
@@ -315,7 +315,7 @@
 <!-- Line Comment TTD Panitia 29 wajib ditargetkan pada baris komentar ini -->
 
 ### [30] PDD - Raihan Firdaus Alfaritsi
-* <img src="assets/PANITIA/PDD/PDD - Raihan Firdaus Alfaritsi.png" alt="Raihan Firdaus Alfaritsi" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD - RAIHAN FIRDAUS ALFARITSI.png" alt="Raihan Firdaus Alfaritsi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Raihan Firdaus Alfaritsi
 * **Jabatan:** -
 * **TTL:** -
@@ -327,7 +327,7 @@
 ### [31] PDD - Achmad Alvin Al Falah
 * <img src="assets/PANITIA/PDD/PDD - AHMAD ALVIN AL FALAH.jpg" alt="Achmad Alvin Al Falah" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Achmad Alvin Al Falah
-* **Jabatan:** PJ
+* **Jabatan:** Anggota
 * **TTL:** Ponorogo, 18 Januari 2006
 * **Nomer Handphone:** 085230210357
 * **Username GitHub:** @AchmadAlvin
@@ -337,7 +337,7 @@
 ### [32] PDD - Daffa Hafist Atha Kuncoro
 * <img src="assets/PANITIA/PDD/PDD - DAFFA HAFIST ATHA KUNCORO.jpg" alt="Daffa Hafist Atha Kuncoro" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Daffa Hafist Atha Kuncoro
-* **Jabatan:** Staff Muda
+* **Jabatan:** Anggota
 * **TTL:** Surabaya, 16 Januari 2007
 * **Nomer Handphone:** 081329827262
 * **Username GitHub:** @Hafist-ak08
@@ -347,7 +347,7 @@
 ### [33] PDD - Dinda Rahmawati
 * <img src="assets/PANITIA/PDD/PDD - DINDA RAHMAWATI.jpg" alt="Dinda Rahmawati" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Dinda Rahmawati
-* **Jabatan:** Staff Muda
+* **Jabatan:** Anggota
 * **TTL:** Madiun, 09 September 2006
 * **Nomer Handphone:** 085143442263
 * **Username GitHub:** @dindarahmawatii
@@ -369,7 +369,7 @@
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] DKM - Jimli Dwi Assiddiqi
-* <img src="assets/PANITIA/DKM/DKM  - JIMLI DWI ASIDDIQLI.jpg" alt="Jimli Dwi Assiddiqi" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM - JIMLI DWI ASIDDIQLI.jpg" alt="Jimli Dwi Assiddiqi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Jimli Dwi Assiddiqi
 * **Jabatan:** Perkap
 * **TTL:** Mojokerto, 29 Juli 2006
@@ -413,7 +413,7 @@
 ## 🏛️ Volunteer
 
 ### [39] Volunteer - Septian Angga Saputra
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - SEPTIAN ANGGA SAPUTRA.jpg" alt="Septian Angga Saputra" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - SEPTIAN ANGGA SAPUTRA.jpg" alt="Septian Angga Saputra" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Septian Angga Saputra
 * **Jabatan:** Volunteer
 * **TTL:** Ponorogo, 12 September 2006
@@ -423,7 +423,7 @@
 <!-- Line Comment TTD Panitia 39 wajib ditargetkan pada baris komentar ini -->
 
 ### [40] Volunteer - Indah Ayu Astuti
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - INDAH AYU ASTUTI.jpg" alt="Indah Ayu Astuti" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - INDAH AYU ASTUTI.jpg" alt="Indah Ayu Astuti" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Indah Ayu Astuti
 * **Jabatan:** Volunteer
 * **TTL:** Ponorogo, 27 Desember 2006
@@ -433,7 +433,7 @@
 <!-- Line Comment TTD Panitia 40 wajib ditargetkan pada baris komentar ini -->
 
 ### [41] Volunteer - Kunni Sofa Rahmayani
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - KUNNI SOFA RAHMAYANI.jpg" alt="Kunni Sofa Rahmayani" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - KUNNI SOFA RAHMAYANI.jpg" alt="Kunni Sofa Rahmayani" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Kunni Sofa Rahmayani
 * **Jabatan:** Volunteer
 * **TTL:** Madiun, 04 Juli 2006
@@ -443,7 +443,7 @@
 <!-- Line Comment TTD Panitia 41 wajib ditargetkan pada baris komentar ini -->
 
 ### [42] Volunteer - Aisyah Nur Fadillah
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - AISYAH NUR FADILLAH.jpg" alt="Aisyah Nur Fadillah" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - AISYAH NUR FADILLAH.jpg" alt="Aisyah Nur Fadillah" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Aisyah Nur Fadillah
 * **Jabatan:** Volunteer (Komdis)
 * **TTL:** Magetan, 21 September 2006
@@ -453,7 +453,7 @@
 <!-- Line Comment TTD Panitia 42 wajib ditargetkan pada baris komentar ini -->
 
 ### [43] Volunteer - Nabil Sunu Widya Dhana
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - NABIL SUNU WIDYA DHANA.jpg" alt="Nabil Sunu Widya Dhana" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - NABIL SUNU WIDYA DHANA.jpg" alt="Nabil Sunu Widya Dhana" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nabil Sunu Widya Dhana
 * **Jabatan:** Volunteer
 * **TTL:** Bekasi, 15 Maret 2006
@@ -463,7 +463,7 @@
 <!-- Line Comment TTD Panitia 43 wajib ditargetkan pada baris komentar ini -->
 
 ### [44] Volunteer - Ervindy Anjuni Nurmasari
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - ERVINDY ANJUNI NURMASARI.jpg" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - ERVINDY ANJUNI NURMASARI.jpg" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Ervindy Anjuni Nurmasari
 * **Jabatan:** Volunteer (Konsumsi)
 * **TTL:** Madiun, 21 Juni 2006
@@ -473,7 +473,7 @@
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
 ### [45] Volunteer - Nadya Nur Kamila
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - NADYA NUR KAMILA.jpg" alt="Nadya Nur Kamila" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - NADYA NUR KAMILA.jpg" alt="Nadya Nur Kamila" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nadya Nur Kamila
 * **Jabatan:** Volunteer
 * **TTL:** Madiun, 1 September 2006
@@ -483,7 +483,7 @@
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
 
 ### [46] Volunteer - Galang Surya Prasetyo
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - GALANG SURYA PRASETYO.jpg" alt="Galang Surya Prasetyo" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - GALANG SURYA PRASETYO.jpg" alt="Galang Surya Prasetyo" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Galang Surya Prasetyo
 * **Jabatan:** Volunteer Komdis
 * **TTL:** Tenggarong, 19 Februari 2007
