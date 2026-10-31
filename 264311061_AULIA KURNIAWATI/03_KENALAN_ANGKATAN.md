@@ -480,7 +480,7 @@
 * **Nama Kelompok:** [FLUTTER]
 * **Asal Daerah:** [BREBES]
 * **Asal Sekolah:** [SMA_BUDI_UTOMO_SURAKARTA]
-* **Fun Fact:** [FUN_FACT]
+* **Fun Fact:** [LIKEE_KOPII_LIKEE_TIDUR_NGGA_LIKE_PANASS]
 
 ### [44] [264311045] - [KEYLILA_EDENIA_VINCA_SUSANTO]
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311045-KEYLILA_EDENIA_VINCA_SUSANTO.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
