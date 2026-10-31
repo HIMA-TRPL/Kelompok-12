@@ -79,7 +79,7 @@
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [08] Dagri - Dzakwan Daris Fakhruddin
-* <img src="assets/PANITIA/Dagri/Dagri - Dzakwan Daris Fakhruddin.jpg" alt="Dzakwan Daris Fakhruddin" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/DAGRI - DZAKWAN DARIS FAKHRUDDIN.jpg" alt="Dzakwan Daris Fakhruddin" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Dzakwan Daris Fakhruddin
 * **Jabatan:** Anggota Dagri
 * **TTL:** Madiun, 13 April 2006
@@ -99,7 +99,7 @@
 <!-- Line Comment TTD Panitia 09 wajib ditargetkan pada baris komentar ini -->
 
 ### [10] Dagri - Bangkit Cahya Linuwih
-* <img src="assets/PANITIA/Dagri/Dagri - Bangkit Cahya Linuwih.jpg" alt="Bangkit Cahya Linuwih" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/DAGRI - BANGKIT CAHYA LINUWIH.jpg" alt="Bangkit Cahya Linuwih" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Bangkit Cahya Linuwih
 * **Jabatan:** Staff Muda Dagri
 * **TTL:** Pacitan, 02 April 2006
