@@ -405,8 +405,8 @@
 * **Asal Sekolah:** [SMKN_3_MADIUN]
 * **Fun Fact:** [DRAKOR_ADDICT]
 
-### [37] [264311037] - [ANTASYA_SILVIA_MONICA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+### [37] [264311037] - [ANATASYA_SILVIA_MONICA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311037 - ANATASYA_SILVIA_MONICA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [ANATASYA_SILVIA_MONICA]
 * **NIM:** [264311037]
 * **TTL:** [KOTA_MAGETAN_5_JUNI_2008]
