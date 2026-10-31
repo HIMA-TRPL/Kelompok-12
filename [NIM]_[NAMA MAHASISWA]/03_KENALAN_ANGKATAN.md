@@ -5,7 +5,7 @@
 ## 🏫 Kelas 1A
 
 ### 01 264311001 - Adhinia Alkurratu Ainni
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311001_ADHINIA ALKURRATU AINNI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Adhinia Alkurratu Ainni
 * **NIM:** 264311001
 * **TTL:** Madiun, 11 Desember 2007
@@ -16,7 +16,7 @@
 * **Fun Fact:** BAIK
 
 ### 02 264311002 - Adly Nourus Zaman Assidiq
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311002_ADLY NOURUS ZAMAN ASSIDIQ.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Adly Nourus Zaman Assidiq
 * **NIM:** 264311002
 * **TTL:** Malaysia, 08 Januari 2008
@@ -27,7 +27,7 @@
 * **Fun Fact:** aku mau tidur
 
 ### 03 264311003 - Afan Dhani Prasetyo
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311003_AFAN DHANI PRASETYO.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Afan Dhani Prasetyo
 * **NIM:** 264311003
 * **TTL:** Magetan, 18 Febuari 2008
@@ -38,7 +38,7 @@
 * **Fun Fact:** Karina AESPA MBG (my bini gw)
 
 ### 04 264311004 - Afrin Rachmad Setio
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311004_AFRIN RACHMAD SETIO.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Afrin Rachmad Setio
 * **NIM:** 264311004
 * **TTL:** Magetan, 30 Agustus 2008
@@ -49,7 +49,7 @@
 * **Fun Fact:** MASA MUDA WAJIB HEALING
 
 ### 05 264311005 - Anis Ali Sohib
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311005_ANIS ALI SOHIB.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Anis Ali Sohib
 * **NIM:** 264311005
 * **TTL:** Magetan, 26 Maret 2008
@@ -60,7 +60,7 @@
 * **Fun Fact:** HIKING
 
 ### 06 264311006 - Aulia Fatmawati
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311006_AULIA FATMAWATI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Aulia Fatmawati
 * **NIM:** 264311006
 * **TTL:** Madiun, 09 November 2007
@@ -71,7 +71,7 @@
 * **Fun Fact:** TIDAK SUKA MAKANAN PEDAS
 
 ### 07 264311007 - Aurelysta Bunga Dhias Mawarni
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311007_AURELYSTA BUNGA DHIAS MAWARNI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Aurelysta Bunga Dhias Mawarni
 * **NIM:** 264311007
 * **TTL:** Mojokerto, 25 Juni 2007
@@ -82,7 +82,7 @@
 * **Fun Fact:** love matcha dan capybara💚🤎
 
 ### 08 264311008 - Bertha Sampoerna
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311008_BERTHA SAMPOERNA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Bertha Sampoerna
 * **NIM:** 264311008
 * **TTL:** Ngawi, 29 Januari 2008
@@ -93,7 +93,7 @@
 * **Fun Fact:** -
 
 ### 09 264311009 - Bramanta Setya Bagaskara
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311009_BRAMANTA SETYA BAGASKARA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Bramanta Setya Bagaskara
 * **NIM:** 264311009
 * **TTL:** Malang, 24 November 2007
@@ -104,7 +104,7 @@
 * **Fun Fact:** SUKA MENDENGARKAN MUSIK, HOBI OTOMOTIF, TIDAK SUKA BUBUR
 
 ### 10 264311010 - Dava Al Mustoffa Dachlan
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311010_DAVA AL MUSTOFFA DACHLAN.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Dava Al Mustoffa Dachlan
 * **NIM:** 264311010
 * **TTL:** Magetan, 17 Maret 2007
@@ -115,7 +115,7 @@
 * **Fun Fact:** Cool
 
 ### 11 264311011 - Dhafin Hasya Zaki
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311011_DHAFIN HASYA ZAKI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Dhafin Hasya Zaki
 * **NIM:** 264311011
 * **TTL:** Madiun, 28 Juli 2007
@@ -126,7 +126,7 @@
 * **Fun Fact:** RACING ABIEZ
 
 ### 12 264311012 - Dimas Pramodya Bagaskara
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311012_DIMAS PRAMODYA BAGASKARA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Dimas Pramodya Bagaskara
 * **NIM:** 264311012
 * **TTL:** Ponorogo, 05 Mei 2008
@@ -137,7 +137,7 @@
 * **Fun Fact:** Cadel
 
 ### 13 264311013 - Edgar Rizki Putra Novariyanto
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311013_EDGAR RIZKI PUTRA NOVARIYANTO.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Edgar Rizki Putra Novariyanto
 * **NIM:** 264311013
 * **TTL:** Madiun, 17 November 2007
@@ -148,7 +148,7 @@
 * **Fun Fact:** aku mah pemulaa
 
 ### 14 264311014 - Elvan Syahputra Idham
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311014_ELVAN SYAHPUTRA IDHAM.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Elvan Syahputra Idham
 * **NIM:** 264311014
 * **TTL:** Madiun, 08 Maret 2008
@@ -159,7 +159,7 @@
 * **Fun Fact:** suka melukis
 
 ### 15 264311015 - Fakhriyatul Muzakkina
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311015_FAKHRIYATUL MUZAKKINA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Fakhriyatul Muzakkina
 * **NIM:** 264311015
 * **TTL:** Probolinggo, 16 Juli 2008
@@ -170,7 +170,7 @@
 * **Fun Fact:** ga bisa tidur klo ga nyetel musik
 
 ### 16 264311016 - Fatikha Artemisia
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311016_FATIKHA ARTEMISIA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Fatikha Artemisia
 * **NIM:** 264311016
 * **TTL:** Magetan, 16 Desember 2007
@@ -181,7 +181,7 @@
 * **Fun Fact:** cinta kecap
 
 ### 17 264311017 - Jelita Palupi Kusuma Wardani
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311017_JELITA PALUPI KUSUMA WARDANI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Jelita Palupi Kusuma Wardani
 * **NIM:** 264311017
 * **TTL:** Sidoarjo, 17 Maret 2008
@@ -192,7 +192,7 @@
 * **Fun Fact:** SUKA BUBUDUDU
 
 ### 18 264311018 - Julian Raka Nugraha
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311018_JULIAN RAKA NUGRAHA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Julian Raka Nugraha
 * **NIM:** 264311018
 * **TTL:** Ponorogo, 28 Juli 2008
@@ -203,7 +203,7 @@
 * **Fun Fact:** suka lagu LANA DEL REY
 
 ### 19 264311019 - Khansa Qais Fernanda
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311019_KHANSA QAIS FERNANDA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Khansa Qais Fernanda
 * **NIM:** 264311019
 * **TTL:** Madiun, 21 Februari 2008
@@ -214,7 +214,7 @@
 * **Fun Fact:** suka main gitar
 
 ### 20 264311020 - Mahija Parama Urdha
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311020_MAHIJA PARAMA URDHA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Mahija Parama Urdha
 * **NIM:** 264311020
 * **TTL:** Ponorogo, 11 Januari 2008
@@ -225,7 +225,7 @@
 * **Fun Fact:** baik
 
 ### 21 264311021 - Muhammad Ridwan Nazim
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311021_MUHAMMAD RIDWAN NAZIM.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Muhammad Ridwan Nazim
 * **NIM:** 264311021
 * **TTL:** Jakarta, 25 Mei 2007
@@ -236,7 +236,7 @@
 * **Fun Fact:** dipanggil nengok
 
 ### 22 264311022 - Naila Azahra Fitri
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311022_NAILA AZAHRA FITRI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Naila Azahra Fitri
 * **NIM:** 264311022
 * **TTL:** Bojonegoro, 10 Oktober 2008
@@ -247,7 +247,7 @@
 * **Fun Fact:** wallahualam😊🩵
 
 ### 23 264311023 - Nashwa Nadia Nurlatifa
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311023_NASHWA NADIA NURLATIFA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Nashwa Nadia Nurlatifa
 * **NIM:** 264311023
 * **TTL:** Bojonegoro, 31 Maret 2008
@@ -258,7 +258,7 @@
 * **Fun Fact:** lagi rewatch marvel💚
 
 ### 24 264311024 - Ngazimatul Khusna
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311024_NGAZIMATUL KHUSNA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Ngazimatul Khusna
 * **NIM:** 264311024
 * **TTL:** Ngawi, 12 Juli 2007
@@ -269,7 +269,7 @@
 * **Fun Fact:** bisa tidur berdiri
 
 ### 25 264311025 - Rafiq Imam Zaini
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311025_RAFIQ IMAM ZAINI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Rafiq Imam Zaini
 * **NIM:** 264311025
 * **TTL:** Balikpapan, 21 Desember 2005
@@ -280,7 +280,7 @@
 * **Fun Fact:** suka pecut ai
 
 ### 26 264311026 - Rahma Fauzi Cahya Saputra
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311026_RAHMA FAUZI CAHYA SAPUTRA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Rahma Fauzi Cahya Saputra
 * **NIM:** 264311026
 * **TTL:** Ngawi, 20 Juli 2008
@@ -291,7 +291,7 @@
 * **Fun Fact:** PENDIEM YANG SERING GERAK
 
 ### 27 264311027 - Reza Surya Kurniawan
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311027_REZA SURYA KURNIAWAN.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Reza Surya Kurniawan
 * **NIM:** 264311027
 * **TTL:** Magetan, 28 Maret 2007
@@ -302,7 +302,7 @@
 * **Fun Fact:** Suka kopag
 
 ### 28 264311028 - Rhahma Dwi Sekarsari
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311028_RHAHMA DWI SEKARSARI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Rhahma Dwi Sekarsari
 * **NIM:** 264311028
 * **TTL:** Nganjuk, 31 Juli 2008
@@ -313,7 +313,7 @@
 * **Fun Fact:** MINUM TEH GABISA TIDUR
 
 ### 29 264311029 - Rifqi Adyasta Mahardika
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311029_RIFQI ADYASTA MAHARDIKA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Rifqi Adyasta Mahardika
 * **NIM:** 264311029
 * **TTL:** Bojonegoro, 19 September 2008
@@ -324,7 +324,7 @@
 * **Fun Fact:** pengen jago vibe coding
 
 ### 30 264311030 - Zahro Choirun Latifah
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1A/264311030_ZAHRO CHOIRUN LATIFAH.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Zahro Choirun Latifah
 * **NIM:** 264311030
 * **TTL:** Madiun, 15 Mei 2007
@@ -339,7 +339,7 @@
 ## 🏫 Kelas 1B
 
 ### 31 264311031 - Ahmad Mujadid Musyafi'i
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311031_AHMAD MUJADID MUSYAFI'I.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Ahmad Mujadid Musyafi'i
 * **NIM:** 264311031
 * **TTL:** Magetan, 9 Desember 2007
@@ -350,7 +350,7 @@
 * **Fun Fact:** tidak kuat dengan makanan pedas
 
 ### 32 264311032 - Ahmad Raisya Al Iqsan
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311032_AHMAD RAISYA AL IQSAN.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Ahmad Raisya Al Iqsan
 * **NIM:** 264311032
 * **TTL:** Ponorogo, 27 November 2007
@@ -361,7 +361,7 @@
 * **Fun Fact:** SUKA HEALING
 
 ### 33 264311033 - Akbar Putra Pratama
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311033_AKBAR PUTRA PRATAMA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Akbar Putra Pratama
 * **NIM:** 264311033
 * **TTL:** Kota Madiun, 25 Januari 2007
@@ -372,7 +372,7 @@
 * **Fun Fact:** Gmpang tidur
 
 ### 34 264311034 - Alexsandria Cahaya Adzani
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311034_ALEXSANDRIA CAHAYA ADZANI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Alexsandria Cahaya Adzani
 * **NIM:** 264311034
 * **TTL:** Madiun, 20 Juli 2007
@@ -383,7 +383,7 @@
 * **Fun Fact:** wi wok de tok
 
 ### 35 264311035 - Anisa Latifatul Rohma
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311035_ANISA LATIFATUL ROHMA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Anisa Latifatul Rohma
 * **NIM:** 264311035
 * **TTL:** Kota Madiun, 20 Maret 2007
@@ -394,7 +394,7 @@
 * **Fun Fact:** bersin bersin habis ngekek
 
 ### 36 264311036 - Annisa Nimasturna Meysarahma
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311036_ANNISA NIMASTURNA MEYSARAHMA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Annisa Nimasturna Meysarahma
 * **NIM:** 264311036
 * **TTL:** Kota Madiun, 07 Mei 2007
@@ -405,7 +405,7 @@
 * **Fun Fact:** drakor addict
 
 ### 37 264311037 - Anastasya Silvia Monica
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311037_ANATASYA SILVIA MONICA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Anastasya Silvia Monica
 * **NIM:** 264311037
 * **TTL:** Magetan, 5 Juni 2008
@@ -416,7 +416,7 @@
 * **Fun Fact:** anak spotify
 
 ### 38 264311038 - Ardhan Irsyad Maulana
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311038_ARDHAN IRSYAD MAULANA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Ardhan Irsyad Maulana
 * **NIM:** 264311038
 * **TTL:** Kota Madiun, 16 Juni 2007
@@ -427,7 +427,7 @@
 * **Fun Fact:** GA SUKA NGOMONG KASAR
 
 ### 39 264311039 - Dewi Wasilatul Khoiriyah
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311039_DEWI WASILATUL KHOIRIYAH.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Dewi Wasilatul Khoiriyah
 * **NIM:** 264311039
 * **TTL:** Sidoarjo, 21 November 2007
@@ -438,7 +438,7 @@
 * **Fun Fact:** hobi turu
 
 ### 40 264311040 - Fairuz Nadhir Rahmad
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311040_FAIRUZ NADHIR RAHMAD.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Fairuz Nadhir Rahmad
 * **NIM:** 264311040
 * **TTL:** Kota Madiun, 02 April 2008
@@ -449,7 +449,7 @@
 * **Fun Fact:** males error
 
 ### 41 264311041 - Fauzan Wisam Falahul Bashiroh
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311041_FAUZAN WISAM FALAHUL BASHIROH.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Fauzan Wisam Falahul Bashiroh
 * **NIM:** 264311041
 * **TTL:** Ngawi, 01 September 2007
@@ -460,7 +460,7 @@
 * **Fun Fact:** jadi Backburner
 
 ### 42 264311042 - Gading Fandy Raya
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311042_GADING FANDY RAYA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Gading Fandy Raya
 * **NIM:** 264311042
 * **TTL:** Magetan, 04 Juni 2007
@@ -471,7 +471,7 @@
 * **Fun Fact:** -
 
 ### 43 264311043 - Glendy Devanno Ardiansyah Putra
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311043_GLENDY DEVANNO ARDIANSYAH PUTRA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Glendy Devanno Ardiansyah Putra
 * **NIM:** 264311043
 * **TTL:** Ponorogo, 25 Oktober 2007
@@ -482,7 +482,7 @@
 * **Fun Fact:** Anda kenal saya tau sendiri
 
 ### 44 264311044 - Heksa Abdillah Al Ghofar
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311044_HEKSA ABDILLAH AL GHOFAR.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Heksa Abdillah Al Ghofar
 * **NIM:** 264311044
 * **TTL:** Brebes, 08 April 2008
@@ -493,7 +493,7 @@
 * **Fun Fact:** LIKEE KOPII LIKEE TIDUR NGGA LIKE PANASS
 
 ### 45 264311045 - Keylila Edenia Vinca Susanto
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311045_KEYLILA EDENIA VINCA SUSANTO.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Keylila Edenia Vinca Susanto
 * **NIM:** 264311045
 * **TTL:** Kota Madiun, 18 Agustus 2007
@@ -504,7 +504,7 @@
 * **Fun Fact:** Feminist
 
 ### 46 264311046 - Moch Kevin Nafiz Alfa Rizal
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311046_MOCH KEVIN NAFIZ ALFA RIZAL.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Moch Kevin Nafiz Alfa Rizal
 * **NIM:** 264311046
 * **TTL:** Kota Madiun, 06 Maret 2007
@@ -515,7 +515,7 @@
 * **Fun Fact:** Berani Beda
 
 ### 47 264311047 - Mohamad Fatir
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311047_MOHAMAD FATIR.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Mohamad Fatir
 * **NIM:** 264311047
 * **TTL:** Madiun, 22 Mei 2007
@@ -526,7 +526,7 @@
 * **Fun Fact:** SUKA OLAHRAGA, SUKA MUSIK
 
 ### 48 264311048 - Muhammad Amirul Hafidz
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311048_Muhammad Amirul Hafidz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Muhammad Amirul Hafidz
 * **NIM:** 264311048
 * **TTL:** Ponorogo, 06 April 2007
@@ -537,7 +537,7 @@
 * **Fun Fact:** awas ya ITS tahun depan
 
 ### 49 264311049 - Muhammad Mahlayan
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311049_Muhammad Mahlayan.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Muhammad Mahlayan
 * **NIM:** 264311049
 * **TTL:** Magetan, 1 Januari 2007
@@ -548,7 +548,7 @@
 * **Fun Fact:** bisa gambar & basket berjam2 klo udah masuk flow state
 
 ### 50 264311050 - Nadila Wulansari
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311050_NADILA WULANSARI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Nadila Wulansari
 * **NIM:** 264311050
 * **TTL:** Ngawi, 23 Mei 2007
@@ -559,7 +559,7 @@
 * **Fun Fact:** Gabut dikit pengen makan
 
 ### 51 264311051 - Nazhwa Al Karana Putri
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311051_Nazhwa Al Karana Putri.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Nazhwa Al Karana Putri
 * **NIM:** 264311051
 * **TTL:** Ngawi, 28 Desember 2008
@@ -570,7 +570,7 @@
 * **Fun Fact:** suka makan tapi malas ngunyah
 
 ### 52 264311052 - Nazril Desta Adhanda
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311052_NAZRIL DESTA ADHANDA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Nazril Desta Adhanda
 * **NIM:** 264311052
 * **TTL:** Madiun, 20 Desember 2007
@@ -581,7 +581,7 @@
 * **Fun Fact:** rispek bgtt
 
 ### 53 264311053 - Nila Ayunisa
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311053_NILA AYUNISA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Nila Ayunisa
 * **NIM:** 264311053
 * **TTL:** Madiun, 01 Juni 2007
@@ -592,7 +592,7 @@
 * **Fun Fact:** suka ngopi
 
 ### 54 264311054 - Panji Yuwono Wijoyo
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311054_Panji Yuwono Wijoyo.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Panji Yuwono Wijoyo
 * **NIM:** 264311054
 * **TTL:** Madiun, 22 Februari 2008
@@ -603,7 +603,7 @@
 * **Fun Fact:** "Hei!! Antek-Antek Feodalis 🫵!!!"
 
 ### 55 264311055 - Raizzan Ulayya Taqqi
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311055_RAIZZAN ULAYYA TAQQI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Raizzan Ulayya Taqqi
 * **NIM:** 264311055
 * **TTL:** Ngawi, 01 Oktober 2007
@@ -614,7 +614,7 @@
 * **Fun Fact:** gk suka makan pedes
 
 ### 56 264311056 - Restu Prayoga
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311056_RESTU PRAYOGA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Restu Prayoga
 * **NIM:** 264311056
 * **TTL:** Ponorogo, 19 Januari 2008
@@ -625,7 +625,7 @@
 * **Fun Fact:** FANS KING EMYU
 
 ### 57 264311057 - Roefando Adji Ramadhan
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311057_Roefando Adji Ramadhan.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Roefando Adji Ramadhan
 * **NIM:** 264311057
 * **TTL:** Jakarta, 10 Oktober 2007
@@ -636,7 +636,7 @@
 * **Fun Fact:** pecandu kopi akut
 
 ### 58 264311058 - Sakhiya Azam Khoirunni'am
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311058_Sakhiya Azam Khoirunni'am.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Sakhiya Azam Khoirunni'am
 * **NIM:** 264311058
 * **TTL:** Ponorogo, 06 April 2007
@@ -647,7 +647,7 @@
 * **Fun Fact:** fans madrid
 
 ### 59 264311059 - Sinara Endrya Alnegar
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1B/264311059_SINARA ENDRYA ALNEGAR.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Sinara Endrya Alnegar
 * **NIM:** 264311059
 * **TTL:** Ponorogo, 9 Juni 2007
@@ -662,7 +662,7 @@
 ## 🏫 Kelas 1C
 
 ### 60 264311060 - Adam Chesta Aditio
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1C/264311060_ADAM CHESTA ADITIO.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Adam Chesta Aditio
 * **NIM:** 264311060
 * **TTL:** Blitar, 10 September 2007
@@ -673,7 +673,7 @@
 * **Fun Fact:** Human Male
 
 ### 61 264311061 - Aulia Kurniawati
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1C/264311061_AULIA KURNIAWATI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Aulia Kurniawati
 * **NIM:** 264311061
 * **TTL:** Madiun, 15 Desember 2007
@@ -684,7 +684,7 @@
 * **Fun Fact:** Suka hal hal simpel
 
 ### 62 264311062 - Azzam Fauzy
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1C/264311062_AZZAM FAUZY.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Azzam Fauzy
 * **NIM:** 264311062
 * **TTL:** Magetan, 24 Januari 2008
@@ -695,7 +695,7 @@
 * **Fun Fact:** baik hati
 
 ### 63 264311063 - Bilqis Audynova Prasanty
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1C/264311063_BILQIS AUDYNOVA PRASANTY.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Bilqis Audynova Prasanty
 * **NIM:** 264311063
 * **TTL:** Kota Madiun, 14 November 2007
@@ -706,7 +706,7 @@
 * **Fun Fact:** JAGO NULIS TANGAN KIRI
 
 ### 64 264311064 - Cindika Zahira Thitania Putri
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1C/264311064_CINDIKA ZAHIRA THITANIA PUTRI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Cindika Zahira Thitania Putri
 * **NIM:** 264311064
 * **TTL:** Kota Madiun, 23 Februari 2008
@@ -717,7 +717,7 @@
 * **Fun Fact:** Suka wanginya stela jeruk
 
 ### 65 264311065 - Cornelia Nasywa Puji Agustin
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1C/264311065_CORNELIA NASYWA PUJI AGUSTIN.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Cornelia Nasywa Puji Agustin
 * **NIM:** 264311065
 * **TTL:** Magetan, 28 April 2007
@@ -728,7 +728,7 @@
 * **Fun Fact:** CINTA MATI UB
 
 ### 66 264311066 - Dwi Riski Nugroho
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1C/264311066_DWI RISKI NUGROHO.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Dwi Riski Nugroho
 * **NIM:** 264311066
 * **TTL:** Ponorogo, 22 April 2007
@@ -739,7 +739,7 @@
 * **Fun Fact:** GAME & RUNNING
 
 ### 67 264311067 - Elan Ghiyath Abhimanyu
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1C/264311067_ELAN GHIYATH ABHIMANYU.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Elan Ghiyath Abhimanyu
 * **NIM:** 264311067
 * **TTL:** Klaten, 29 Maret 2008
@@ -750,7 +750,7 @@
 * **Fun Fact:** I LIEK MUSIC AND FILM
 
 ### 68 264311068 - F
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1C/264311068_EVAN BHAGASKARA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** F
 * **NIM:** 264311068
 * **TTL:** Sragen, 19 Januari 2008
@@ -761,7 +761,7 @@
 * **Fun Fact:** SUKA MIE AYAM
 
 ### 69 264311069 - Ghaza Zaidan Al-ghifari
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1C/264311069_GHAZA ZAIDAN AL-GHIFARI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Ghaza Zaidan Al-ghifari
 * **NIM:** 264311069
 * **TTL:** Madiun, 31 Oktober 2007
@@ -772,7 +772,7 @@
 * **Fun Fact:** SAYA ORANGNYA PENDIAM
 
 ### 70 264311070 - Ikhzaniero Ardyana Juniar
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1C/264311070_IKHZANIERO ARDYANA JUNIAR.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Ikhzaniero Ardyana Juniar
 * **NIM:** 264311070
 * **TTL:** Magetan, 07 Juni 2007
@@ -783,7 +783,7 @@
 * **Fun Fact:** KEBAL AMERICANO 5 SHOOT
 
 ### 71 264311071 - Iltizam Ahmad Syahida
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1C/264311071_ILTIZAM AHMAD SYAHIDA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Iltizam Ahmad Syahida
 * **NIM:** 264311071
 * **TTL:** Maospati, 24 Maret 2007
@@ -794,7 +794,7 @@
 * **Fun Fact:** SUKA MAIN FUTSAL, GAME
 
 ### 72 264311072 - Izzata Wihanangku
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1C/264311072_IZZATA WIHANANGKU.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Izzata Wihanangku
 * **NIM:** 264311072
 * **TTL:** Ponorogo, 06 Agustus 2007
@@ -805,7 +805,7 @@
 * **Fun Fact:** MALAS NGODING
 
 ### 73 264311073 - Jalalluddin Az-Zam Zami Ibnu Suta
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1C/264311073_JALALLUDDIN AZ-ZAM ZAMI IBNU SUTA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Jalalluddin Az-Zam Zami Ibnu Suta
 * **NIM:** 264311073
 * **TTL:** Madiun, 21 Juli 2008
@@ -816,7 +816,7 @@
 * **Fun Fact:** Game garis keras
 
 ### 74 264311074 - Mar'atus Sofiana Azkiya
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1C/264311074_MAR'ATUS SOFIANA AZKIYA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Mar'atus Sofiana Azkiya
 * **NIM:** 264311074
 * **TTL:** Ponorogo, 18 Januari 2008
@@ -827,7 +827,7 @@
 * **Fun Fact:** Suka motoran sore sore
 
 ### 75 264311075 - Muhammad Ahnaf Ghifari
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1C/264311075_MUHAMMAD AHNAF GHIFARI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Muhammad Ahnaf Ghifari
 * **NIM:** 264311075
 * **TTL:** Kediri, 13 April 2008
@@ -838,7 +838,7 @@
 * **Fun Fact:** ASLINYA RAMAH
 
 ### 76 264311076 - Muhammad Andy Dwi Subandi
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1C/264311076_MUHAMMAD ANDY DWI SUBANDI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Muhammad Andy Dwi Subandi
 * **NIM:** 264311076
 * **TTL:** Ponorogo, 7 Maret 2007
@@ -849,7 +849,7 @@
 * **Fun Fact:** SARAPAN KOPI IRENK
 
 ### 77 264311077 - Muhammad Zakiy Fuadiy
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1C/264311077_MUHAMMAD ZAKIY FUADIY.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Muhammad Zakiy Fuadiy
 * **NIM:** 264311077
 * **TTL:** Pacitan, 7 Maret 2006
@@ -860,7 +860,7 @@
 * **Fun Fact:** Tidak Pernah Memiliki Nama Panggilan Yang Sama Di Setiap Jenjang Sekolah
 
 ### 78 264311078 - Mutya Yuwan Ramadahni
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1C/264311078_MUTYA YUWAN RAMADAHNI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Mutya Yuwan Ramadahni
 * **NIM:** 264311078
 * **TTL:** Ponorogo, 6 Oktober 2007
@@ -871,7 +871,7 @@
 * **Fun Fact:** Suka warna hitam
 
 ### 79 264311079 - Neisya Grazia Aulia Firdianty
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1C/264311079_NEISYA GRAZIA AULIA FIRDIANTY.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Neisya Grazia Aulia Firdianty
 * **NIM:** 264311079
 * **TTL:** Madiun, 19 Juli 2007
@@ -882,7 +882,7 @@
 * **Fun Fact:** SUKA NA JAEMIN + CINTA ITS
 
 ### 80 264311080 - Nova
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1C/264311080_NOVA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Nova
 * **NIM:** 264311080
 * **TTL:** Bojonegoro, 3 November 2007
@@ -893,7 +893,7 @@
 * **Fun Fact:** SUKA NYANYI SAAT MANDI
 
 ### 81 264311081 - Putri Nurhaliza
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1C/264311081_PUTRI NURHALIZA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Putri Nurhaliza
 * **NIM:** 264311081
 * **TTL:** Madiun, 8 Juni 2007
@@ -904,7 +904,7 @@
 * **Fun Fact:** Pacarku banyakkkkkkk
 
 ### 82 264311082 - R. Nabil Wijaya Pratama
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1C/264311082_R. NABIL WIJAYA PRATAMA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** R. Nabil Wijaya Pratama
 * **NIM:** 264311082
 * **TTL:** Magetan, 9 Agustus 2008
@@ -915,7 +915,7 @@
 * **Fun Fact:** SUKA WHEN YAH
 
 ### 83 264311083 - Satria Pandu Admaja
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1C/264311083_SATRIA PANDU ADMAJA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Satria Pandu Admaja
 * **NIM:** 264311083
 * **TTL:** Ponorogo, 20 April 2008
@@ -926,7 +926,7 @@
 * **Fun Fact:** SUKA NGEGAME
 
 ### 84 264311085 - Syahga Reyhan Surya Pratama
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1C/264311085_SYAHGA REYHAN SURYA PRATAMA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Syahga Reyhan Surya Pratama
 * **NIM:** 264311085
 * **TTL:** Sidoarjo, 22 Januari 2007
@@ -937,7 +937,7 @@
 * **Fun Fact:** SUKA MENDENGRKAN MUSIK
 
 ### 85 264311086 - Vicky Aditya Surya Samudra
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1C/264311086_VICKY ADITYA SURYA SAMUDRA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Vicky Aditya Surya Samudra
 * **NIM:** 264311086
 * **TTL:** Madiun, 1 Juli 2007
@@ -948,7 +948,7 @@
 * **Fun Fact:** Memelihara Kambing
 
 ### 86 264311087 - Yaya Winda Salma
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1C/264311087_YAYA WINDA SALMA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Yaya Winda Salma
 * **NIM:** 264311087
 * **TTL:** Magetan, 28 Desember 2007
@@ -959,7 +959,7 @@
 * **Fun Fact:** suka gambar
 
 ### 87 264311088 - Zidan Zarakhi Ridwan Habibi
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/1C/264311088_ZIDAN ZARAKHI RIDWAN HABIBI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Zidan Zarakhi Ridwan Habibi
 * **NIM:** 264311088
 * **TTL:** Magetan, 29 April 2008
