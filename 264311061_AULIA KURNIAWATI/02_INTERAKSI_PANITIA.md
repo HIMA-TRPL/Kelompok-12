@@ -423,7 +423,7 @@
 <!-- Line Comment TTD Panitia 39 wajib ditargetkan pada baris komentar ini -->
 
 ### [40] Volunteer - Indah Ayu Astuti
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - INDAH AYU ASTUTI (1).jpg" alt="Indah Ayu Astuti" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER - INDAH AYU ASTUTI.jpg" alt="Indah Ayu Astuti" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Indah Ayu Astuti
 * **Jabatan:** Volunteer
 * **TTL:** Ponorogo, 27 Desember 2006
@@ -483,7 +483,7 @@
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
 
 ### [46] Volunteer - Galang Surya Prasetyo
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - SURYA PRASETYO.jpg" alt="Galang" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER - GALANG SURYA PRASETYO.jpg" alt="Galang Surya Prasetyo" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Galang Surya Prasetyo
 * **Jabatan:** Volunteer Komdis
 * **TTL:** Tenggarong, 19 Februari 2007
