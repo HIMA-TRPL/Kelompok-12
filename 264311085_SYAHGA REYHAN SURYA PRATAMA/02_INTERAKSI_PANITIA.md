@@ -497,5 +497,3 @@
 
 ## 📝 IV. VERIFIKASI TANDA TANGAN DIGITAL
 > **Catatan Validasi:** Mahasiswa baru dilarang mengubah bagian ini secara manual. TTD Digital dinyatakan SAH jika panitia yang bersangkutan memberikan review pada blok.
-## 📝 IV. VERIFIKASI TANDA TANGAN DIGITAL
-> **Catatan Validasi:** Mahasiswa baru dilarang mengubah bagian ini secara manual. TTD Digital dinyatakan SAH jika panitia yang bersangkutan memberikan review pada blok.
