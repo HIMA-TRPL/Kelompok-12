@@ -413,7 +413,7 @@
 ## 🏛️ Volunteer
 
 ### [39] Volunteer - Septian Angga Saputra
-* <img src="assets/PANITIA/Volunteer/Volunteer - Septian Angga Saputra.jpg" alt="Septian Angga Saputra" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER  - Septian Angga Saputra.jpg" alt="Septian Angga Saputra" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Septian Angga Saputra
 * **Jabatan:** Volunteer
 * **TTL:** Ponorogo, 12 September 2006
@@ -423,7 +423,7 @@
 <!-- Line Comment TTD Panitia 39 wajib ditargetkan pada baris komentar ini -->
 
 ### [40] Volunteer - Indah Ayu Astuti
-* <img src="assets/PANITIA/Volunteer/Volunteer - Indah Ayu Astuti.jpg" alt="Indah Ayu Astuti" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER  - Indah Ayu Astuti.jpg" alt="Indah Ayu Astuti" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Indah Ayu Astuti
 * **Jabatan:** Volunteer
 * **TTL:** Ponorogo, 27 Desember 2006
@@ -433,7 +433,7 @@
 <!-- Line Comment TTD Panitia 40 wajib ditargetkan pada baris komentar ini -->
 
 ### [41] Volunteer - Kunni Sofa Rahmayani
-* <img src="assets/PANITIA/Volunteer/Volunteer - Kunni Sofa Rahmayani.jpg" alt="Kunni Sofa Rahmayani" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER  - Kunni Sofa Rahmayani.jpg" alt="Kunni Sofa Rahmayani" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Kunni Sofa Rahmayani
 * **Jabatan:** Volunteer
 * **TTL:** Madiun, 04 Juli 2006
@@ -443,7 +443,7 @@
 <!-- Line Comment TTD Panitia 41 wajib ditargetkan pada baris komentar ini -->
 
 ### [42] Volunteer - Aisyah Nur Fadillah
-* <img src="assets/PANITIA/Volunteer/Volunteer - Aisyah Nur Fadillah.jpg" alt="Aisyah Nur Fadillah" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER /Volunteer - Aisyah Nur Fadillah.jpg" alt="Aisyah Nur Fadillah" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Aisyah Nur Fadillah
 * **Jabatan:** Volunteer (Komdis)
 * **TTL:** Magetan, 21 September 2006
@@ -453,7 +453,7 @@
 <!-- Line Comment TTD Panitia 42 wajib ditargetkan pada baris komentar ini -->
 
 ### [43] Volunteer - Nabil Sunu Widya Dhana
-* <img src="assets/PANITIA/Volunteer/Volunteer - Nabil Sunu Widya Dhana.jpg" alt="Nabil Sunu Widya Dhana" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER /Volunteer - Nabil Sunu Widya Dhana.jpg" alt="Nabil Sunu Widya Dhana" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nabil Sunu Widya Dhana
 * **Jabatan:** Volunteer
 * **TTL:** Bekasi, 15 Maret 2006
