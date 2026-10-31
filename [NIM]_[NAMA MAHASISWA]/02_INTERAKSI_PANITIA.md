@@ -389,7 +389,7 @@
 <!-- Line Comment TTD Panitia 36 wajib ditargetkan pada baris komentar ini -->
 
 ### [37] DKM - Sekar Purwita Asri
-* <img src="assets/PANITIA/DKM/DKM - Sekar Purwita Asri.jpg" alt="Sekar Purwita Asri" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM - SEKAR PURWITA ASRI.jpg" alt="Sekar Purwita Asri" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Sekar Purwita Asri
 * **Jabatan:** Anggota DKM
 * **TTL:** Magetan, 15 Juli 2006
