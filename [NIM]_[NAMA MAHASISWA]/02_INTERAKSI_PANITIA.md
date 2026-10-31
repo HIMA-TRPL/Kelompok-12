@@ -55,7 +55,7 @@
 <!-- Line Comment TTD Panitia 05 wajib ditargetkan pada baris komentar ini -->
 
 ### [06] BPH - Dhea Novika
-* <img src="assets/PANITIA/BPH/BPH - Dhea Novika.jpg" alt="Dhea Novika" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/BPH - DHEA NOVIKA.jpg" alt="Dhea Novika" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Dhea Novika
 * **Jabatan:** Bendahara 2
 * **TTL:** Madiun, 13 November 2006
