@@ -4,101 +4,119 @@
 
 ## 🏛️ Divisi BPH (Badan Pengurus Harian)
 
-### [01] BPH - [MUHAMMAD_AKBAR_FADILAH]
-* <img src="assets/PANITIA/BPH/BPH - Muhammad Akbar Fadilah.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [MUHAMMAD_AKBAR_FADILAH]
-* **Jabatan:** [Ketua_Umum]
-* **TTL:** [Banjarmasin,17_Juli_2006]
-* **Nomer Handphone:** [082336825955]
-* **Username GitHub:** [@akbrvdv]
-* **Asal Daerah:** [Ngawi]
+### [01] BPH - Muhammad Akbar Fadilah
+* <img src="assets\PANITIA\BPH\BPH - MUHAMMAD AKBAR FADILAH.jpg" alt="Muhammad Akbar Fadilah" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Muhammad Akbar Fadilah
+* **Jabatan:** Ketua Umum
+* **TTL:** Banjarmasin,17 Juli 2006
+* **Nomer Handphone:** 082336825955
+* **Username GitHub:** @akbrvdv
+* **Asal Daerah:** Ngawi
 <!-- Line Comment TTD Panitia 01 wajib ditargetkan pada baris komentar ini -->
 
-### [02] BPH - [NAILA_ZAHRA_YASMINE]
-* <img src="assets/PANITIA/BPH/BPH- NAILA ZAHRA YASMINE.jpg" alt="Naila Zahra Yasmine" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [NAILA_ZAHRA_YASMINE]
-* **Jabatan:** [Sekretaris_2]
-* **TTL:** [Madiun,09_Oktober_2006]
-* **Nomer Handphone:** [082143238277]
-* **Username GitHub:** @[@nailazahraysmn]
-* **Asal Daerah:** [Dagangan,Kab.Madiun]
-<!-- Line Comment TTD Panitia 02 wajib ditargetkan pada baris komentar ini -->
-
-### [03] BPH - [MUHAMMAD_ADAM_AL_KIDRI]
+### [02] BPH -  Muhammad Adam Al Kidri
 * <img src="assets/PANITIA/BPH/BPH - MUHAMMAD ADAM Al KIDRI.jpg" alt="Muhammad Adam Al-Kidri" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [MUHAMMAD_ADAM_AL_KIDRI]
-* **Jabatan:** [Wakil_Ketua_Umum_HIMA_TRPL_2026]
-* **TTL:** [Magetan,08_September_2005]
-* **Nomer Handphone:** [087756523263]
-* **Username GitHub:** @[@Adamlki]
-* **Asal Daerah:** [Magetan]
+* **Nama Panitia:** Muhammad Adam Al Kidri
+* **Jabatan:** Wakil Ketua Umum HIMA TRPL 2026
+* **TTL:** Magetan,08 September 2005
+* **Nomer Handphone:** 087756523263
+* **Username GitHub:** @Adamlki
+* **Asal Daerah:** Magetan
 <!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
 
-### [04] BPH - [FATHUR_ROSHIN_HADDINANTA]
+### [03] BPH - Fathur Roshin Haddinanta
 * <img src="assets\PANITIA\BPH\BPH - FATHUR ROSHIN HADDINANTA .jpg" alt="Fathur Roshin Haddinanta" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [FATHUR_ROSHIN_HADDINANTA]
-* **Jabatan:** [SEKRETARIS_1]
-* **TTL:** [Tulungagung,21_September_2005]
-* **Nomer Handphone:** [085732860583]
-* **Username GitHub:** @[@fathursn21]
-* **Asal Daerah:** [Magetan]
+* **Nama Panitia:** Fathur Roshin Haddinanta
+* **Jabatan:** Sekretaris 1
+* **TTL:** Tulungagung,21 September 2005
+* **Nomer Handphone:** 085732860583
+* **Username GitHub:** @fathursn21
+* **Asal Daerah:** Magetan
 <!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
 
-### [05] BPH - [DHEA_NOVIKA]
-* <img src="assets\PANITIA\BPH\BPH - DHEA NOVIKA.jpg" alt="Dhea Novika" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [FATHUR_ROSHIN_HADDINANTA]
-* **Jabatan:** [SEKRETARIS_1]
-* **TTL:** [Tulungagung,21_September_2005]
-* **Nomer Handphone:** [085732860583]
-* **Username GitHub:** @[@fathursn21]
-* **Asal Daerah:** [Magetan]
-<!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
+### [04] BPH - Naila Zahra Yasmine
+* <img src="assets/PANITIA/BPH/BPH- NAILA ZAHRA YASMINE.jpg" alt="Naila Zahra Yasmine" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Naila Zahra Yasmine
+* **Jabatan:** Sekretaris 2
+* **TTL:** Madiun, 09 Oktober 2006
+* **Nomer Handphone:** 082143238277
+* **Username GitHub:** @nailazahraysmn
+* **Asal Daerah:** Dagangan, Kab. Madiun
+<!-- Line Comment TTD Panitia 04 wajib ditargetkan pada baris komentar ini -->
 
-### [06] BPH - [ALIVIA_RIZKA_WARDANI]
-* <img src="  assets\PANITIA\BPH\BPH - ALIVIA RIZKA WARDANI .jpg" alt="Dhea Novika" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [FATHUR_ROSHIN_HADDINANTA]
-* **Jabatan:** [SEKRETARIS_1]
-* **TTL:** [Tulungagung,21_September_2005]
-* **Nomer Handphone:** [085732860583]
-* **Username GitHub:** @[@fathursn21]
-* **Asal Daerah:** [Magetan]
-<!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
+### [05] BPH - Alivia Rizka Wardani
+* <img src="assets/PANITIA/BPH/BPH- NAILA ZAHRA YASMINE.jpg" alt="Alivia Rizka Wardani" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Alivia Rizka Wardani
+* **Jabatan:** Bendahara 1
+* **TTL:** Ngawi, 12 September 2007
+* **Nomer Handphone:** 08819699823
+* **Username GitHub:** @aliviarizz
+* **Asal Daerah:** Ngawi
+<!-- Line Comment TTD Panitia 05 wajib ditargetkan pada baris komentar ini -->
 
-
+### [06] BPH - Dhea Novika
+* <img src="assets/PANITIA/BPH/BPH - DHEA NOVIKA.jpg" alt="Dhea Novika" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Dhea Novika
+* **Jabatan:** Bendahara 2
+* **TTL:** Madiun, 13 November 2006
+* **Nomer Handphone:** 085648516993
+* **Username GitHub:** @dhean0v
+* **Asal Daerah:** Madiun
+<!-- Line Comment TTD Panitia 06 wajib ditargetkan pada baris komentar ini -->
 
 ---
 
 ## 🏛️ Divisi Dagri (Dalam Negeri)
 
-### [07] Dagri - [Alvian_Dwiky_Putra_Santoso]
+### [07] Dagri - Alvian Dwiky Putra Santoso
 * <img src="assets/PANITIA/Dagri/DAGRI - ALVIAN DWIKI PUTRA SANTOSO.jpg" alt="Alvian Dwiky Putra Santoso" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [Alvian_Dwiky_Putra_Santoso]
-* **Jabatan:** [Koordinator_Dagri]
-* **TTL:** [Ponorogo,02_Desember_2005]
-* **Nomer Handphone:** [082292537622]
-* **Username GitHub:** @[USERNAME_GITHUB_04]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-<!-- Line Comment TTD Panitia 04 wajib ditargetkan pada baris komentar ini -->
+* **Nama Panitia:** Alvian Dwiky Putra Santoso
+* **Jabatan:** Koordinator Dagri
+* **TTL:** Ponorogo,02 Desember 2005
+* **Nomer Handphone:** 082292537622
+* **Username GitHub:** @alvn22
+* **Asal Daerah:** Ponorogo
+<!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
-### [05] Dagri - [NAMA_PANITIA_05]
-* ikuti langkah nomer 1 untuk menampilkan gambar [GANTI INI]
-* **Nama Panitia:** [NAMA_PANITIA_05]
-* **Jabatan:** [JABATAN]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_05]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-<!-- Line Comment TTD Panitia 05 wajib ditargetkan pada baris komentar ini -->
+### [08] Dagri - Dzakwan Daris Fakhruddin
+* <img src="assets/PANITIA/Dagri/DAGRI - DZAKWAN DARIS FAKHRUDDIN.jpg" alt="Dzakwan Daris Fakhruddin" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Dzakwan Daris Fakhruddin
+* **Jabatan:** Anggota Dagri
+* **TTL:** Madiun, 13 April 2006
+* **Nomer Handphone:** 085163200636
+* **Username GitHub:** @dzadafa
+* **Asal Daerah:** Madiun
+<!-- Line Comment TTD Panitia 08 wajib ditargetkan pada baris komentar ini -->
 
-### [06] Dagri - [NAMA_PANITIA_06]
-* ikuti langkah nomer 1 untuk menampilkan gambar [GANTI INI]
-* **Nama Panitia:** [NAMA_PANITIA_06]
-* **Jabatan:** [JABATAN]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_06]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-<!-- Line Comment TTD Panitia 06 wajib ditargetkan pada baris komentar ini -->
+### [09] Dagri - Firdaus Ilham F.
+* <img src="assets/PANITIA/Dagri/DAGRI - FIRDAUS ILHAM FADHLURRAHMAN.jpg" alt="Firdaus Ilham F." style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Firdaus Ilham F.
+* **Jabatan:** Anggota
+* **TTL:** Madiun, 01 Januari 2007
+* **Nomer Handphone:** 081977285545
+* **Username GitHub:** @fadlukkr
+* **Asal Daerah:** CarubanZ
+<!-- Line Comment TTD Panitia 09 wajib ditargetkan pada baris komentar ini -->
+
+### [10] Dagri - Bangkit Cahya Linuwih
+* <img src="assets/PANITIA/Dagri/DAGRI - BANGKIT CAHYA LINUWIH.jpg" alt="Bangkit Cahya Linuwih" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Bangkit Cahya Linuwih
+* **Jabatan:** Staff Muda Dagri
+* **TTL:** Pacitan, 02 April 2006
+* **Nomer Handphone:** 081230227986
+* **Username GitHub:** @Bangkitcahyalinuwih
+* **Asal Daerah:** Pacitan
+<!-- Line Comment TTD Panitia 10 wajib ditargetkan pada baris komentar ini -->
+
+### [11] Dagri - Nadia Tifara Sidiq
+* <img src="assets/PANITIA/Dagri/DAGRI - NADIA TIFARA SIDIQ.jpg" alt="Nadia Tifara Sidiq" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Nadia Tifara Sidiq
+* **Jabatan:** Sie Acara
+* **TTL:** Madiun, 27 Desember 2005
+* **Nomer Handphone:** 081547416320
+* **Username GitHub:** @Nadia271205
+* **Asal Daerah:** Madiun
+<!-- Line Comment TTD Panitia 11 wajib ditargetkan pada baris komentar ini -->
 
 ---
 
