@@ -177,7 +177,7 @@
 ## 🏛️ Divisi PSDM (Pengembangan Sumber Daya Mahasiswa)
 
 ### [17] PSDM - Riyan Zakaria Zulkarnain
-* <img src="assets/PANITIA/PSDM/PSDM - Riyan Zakaria Zulkarnain.jpg" alt="Riyan Zakaria Zulkarnain" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - RIYAN ZAKARIA ZULKARNAIN.jpg" alt="Riyan Zakaria Zulkarnain" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Riyan Zakaria Zulkarnain
 * **Jabatan:** Koordinator PSDM
 * **TTL:** Ponorogo, 07 September 2005
@@ -197,7 +197,7 @@
 <!-- Line Comment TTD Panitia 18 wajib ditargetkan pada baris komentar ini -->
 
 ### [19] PSDM - Rindy Cantika Agustina P.
-* <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P..jpg" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - RINDI CANTIKA AGUSTINA PUTRI.jpg" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Rindy Cantika Agustina P.
 * **Jabatan:** Anggota PSDM
 * **TTL:** Madiun, 31 Agustus 2006
@@ -207,7 +207,7 @@
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] PSDM - Abdul Aziz Mushthofa
-* <img src="assets/PANITIA/PSDM/PSDM - Abdul Aziz Mushthofa.jpg" alt="Abdul Aziz Mushthofa" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - ABDUL AZIZ MUSHTHOFA.jpg" alt="Abdul Aziz Mushthofa" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Abdul Aziz Mushthofa
 * **Jabatan:** Staff Muda PSDM / Ketupel
 * **TTL:** Tulungagung, 13 April 2006
@@ -217,7 +217,7 @@
 <!-- Line Comment TTD Panitia 20 wajib ditargetkan pada baris komentar ini -->
 
 ### [21] PSDM - Tiara Maya Lestari
-* <img src="assets/PANITIA/PSDM/PSDM - Tiara Maya Lestari.jpg" alt="Tiara Maya Lestari" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - TIARA MAYA LESTARI.jpg" alt="Tiara Maya Lestari" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Tiara Maya Lestari
 * **Jabatan:** Anggota PSDM
 * **TTL:** Nganjuk, 11 Maret 2006
@@ -227,7 +227,7 @@
 <!-- Line Comment TTD Panitia 21 wajib ditargetkan pada baris komentar ini -->
 
 ### [22] PSDM - Azza Auliyaul F.
-* <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul F..jpg" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - AZZA AULIYAUL F..jpg" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Azza Auliyaul F.
 * **Jabatan:** Anggota PSDM
 * **TTL:** Madiun, 19 November 2005
