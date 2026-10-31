@@ -395,7 +395,7 @@
 * **Fun Fact:** [BERSIN_BERSIN_HABIS_NGEKEK]
 
 ### [36] [264311036] - [ANNISA_NIMASTURNA_MEYSARAHMA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311036-ANNISA_NIMASTURNA_MEYSARAHMA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311037-ANASTASYA_SILVIA_MONICA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [ANNISA_NIMASTURNA_MEYSARAHMA]
 * **NIM:** [264311036]
 * **TTL:** [KOTA_MADIUN_07_MEI_2007]
@@ -406,7 +406,7 @@
 * **Fun Fact:** [DRAKOR_ADDICT]
 
 ### [37] [264311037] - [ANATASYA_SILVIA_MONICA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311037 - ANATASYA_SILVIA_MONICA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311037-ANATASYA_SILVIA_MONICA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [ANATASYA_SILVIA_MONICA]
 * **NIM:** [264311037]
 * **TTL:** [KOTA_MAGETAN_5_JUNI_2008]
