@@ -379,7 +379,7 @@
 <!-- Line Comment TTD Panitia 35 wajib ditargetkan pada baris komentar ini -->
 
 ### [36] DKM - Dheandra Khairunnisa P.
-* <img src="assets/PANITIA/DKM/DKM - DHEANDRA KHAIRUNNISA PAMBUDI .jpg" alt="Dheandra Khairunnisa P." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM - DHEANDRA KHAIRUNNISA P.jpg" alt="Dheandra Khairunnisa P." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Dheandra Khairunnisa P.
 * **Jabatan:** Sie Kesehatan
 * **TTL:** Madiun, 27 September 2005
