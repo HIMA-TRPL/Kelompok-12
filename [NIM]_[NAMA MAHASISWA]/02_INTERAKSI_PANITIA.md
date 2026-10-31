@@ -463,7 +463,7 @@
 <!-- Line Comment TTD Panitia 43 wajib ditargetkan pada baris komentar ini -->
 
 ### [44] Volunteer - Ervindy Anjuni Nurmasari
-* <img src="assets/PANITIA/Volunteer/Volunteer - Ervindy Anjuni Nurmasari.jpg" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/Volunteer - ERVINDY ANJUNI NURMASARI.jpg" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Ervindy Anjuni Nurmasari
 * **Jabatan:** Volunteer (Konsumsi)
 * **TTL:** Madiun, 21 Juni 2006
