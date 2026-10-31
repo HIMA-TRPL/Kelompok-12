@@ -19,7 +19,7 @@
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311002-ADLY_NOURUS_ZAMAN_ASSIDIQ.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [ADLY_NOURUS_ZAMAN_ASSIDIQ]
 * **NIM:** [264311002]
-* **TTL:** [PONOROGO_8_JANUARI_2008]
+* **TTL:** [MALAYSIA_8_JANUARI_2008]
 * **Nomer Handphone:** [081315871890]
 * **Nama Kelompok:** [FLASK]
 * **Asal Daerah:** [PONOROGO]
@@ -220,7 +220,7 @@
 * **TTL:** [PONOROGO_11_JANUARI_2008]
 * **Nomer Handphone:** [085812827530]
 * **Nama Kelompok:** [LARAVEL]
-* **Asal Daerah:** [MADIUN]
+* **Asal Daerah:** [KAB_MADIUN]
 * **Asal Sekolah:** [SMKS_AL-ISLAM_JORESAN_PONOROGO]
 * **Fun Fact:** [BAIK]
 
