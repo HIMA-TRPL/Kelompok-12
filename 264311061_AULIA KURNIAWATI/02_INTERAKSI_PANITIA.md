@@ -482,7 +482,7 @@
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 45ras wajib ditargetkan pada baris komentar ini -->
 
-### [46] Volunteer - Galang Surya Petyo
+### [46] Volunteer - Galang Surya Prasetyo
 * <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - GALANG SURYA PRASETYO.jpg" alt="Galang Surya Prasetyo" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Galang Surya Prasetyo
 * **Jabatan:** Volunteer 
