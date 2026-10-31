@@ -69,7 +69,7 @@
 ## 🏛️ Divisi Dagri (Dalam Negeri)
 
 ### [07] Dagri - Alvian Dwiky Putra Santoso
-* <img src="assets/PANITIA/Dagri/DAGRI - ALVIAN DWIKY PUTRA SANTOSO.jpg" alt="Alvian Dwiky Putra Santoso" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DAGRI/DAGRI - ALVIAN DWIKY PUTRA SANTOSO.jpg" alt="Alvian Dwiky Putra Santoso" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Alvian Dwiky Putra Santoso
 * **Jabatan:** Koordinator Dagri
 * **TTL:** Ponorogo, 02 Desember 2005
