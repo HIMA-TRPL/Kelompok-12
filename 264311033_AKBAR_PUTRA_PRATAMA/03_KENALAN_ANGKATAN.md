@@ -369,7 +369,7 @@
 * **Nama Kelompok:** Flutter
 * **Asal Daerah:** Madiun
 * **Asal Sekolah:** SMKN 03 KOTA MADIUN
-* **Fun Fact:** Gmpang tidur
+* **Fun Fact:** Gmpang tidurr
 
 ### 34 264311034 - Alexsandria Cahaya Adzani
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/034.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
